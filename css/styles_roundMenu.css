@@ -1,0 +1,98 @@
+.menu_circulo_grande {
+	background-color: #FFFFFF;
+	height: 34em;
+	width: 34em;
+	border-radius: 50%;
+	position: absolute;
+	top: 1em;
+	bottom: 0;
+	left: 45%;
+	right: 0;
+    box-shadow: 0 0 7px 0 #000000;
+    z-index: initial;
+}
+
+.menu_circulo_selector {
+	background-color: #FFFFFF;
+/*	background: linear-gradient(to bottom, blue, white);*/
+	height: 34em;
+	width: 34em;
+	border-radius: 50%;
+	position: static;
+    z-index: 1;
+    opacity: 0;
+    
+}
+.menu_circulo_chico{
+	background-color: #FFFFFF;
+	height: 14em;
+	width: 14em;
+	border-radius: 50%;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+    box-shadow: 0 0 7px 0 #000000;
+    z-index: 2;
+}
+
+
+.icono_select , .icono_menu, .icono_selector {
+	display: inline-block;
+	position: absolute;
+	z-index: 3;
+}
+
+#icono_menu_1 {
+	top: 15%;
+	left: 18%;
+}
+
+#icono_menu_2 {
+	top: 80px;
+	left: 370px;
+}
+
+#icono_menu_3 {
+	top: 240px;
+	left: 450px;
+}
+
+#icono_menu_4 {
+	top: 400px;
+	left: 360px;
+}
+
+#icono_menu_5 {
+	top: 400px;
+	left: 110px;
+}
+
+#icono_menu_6 {
+	top: 240px;
+	left: 60px;
+}
+
+#menu_circulo_selector img.icono_selector{
+	height: 15em;
+	width: auto;
+	left: 7px;
+	top: 3px;
+	/*opacity: 0;*/
+}
+
+
+#menu_circulo_grande img.icono_select {
+	height: 4em;
+	width: auto;
+}
+
+#menu_circulo_grande img.icono_select:hover {
+	opacity: 0;
+}
+
+.menu_circulo_grande:hover .menu_circulo_selector{
+	opacity: 1;
+}

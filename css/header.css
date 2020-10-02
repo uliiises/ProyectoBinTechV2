@@ -1,0 +1,41 @@
+header {
+    margin: auto;
+    padding-top: 3em;
+    padding-left: 3em;
+    object-fit: cover;
+    z-index: 10;
+    position: absolute;
+    /*background-color: #DD7575;*/
+}
+
+header nav a { /*PARAMETROS DE LETRAS DEL HEADER*/
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-right: 1em;
+    font-size: 1.4vw;
+    padding: 0em 0.3em;
+}
+
+/*---------------------EFECTO DE HOVER EN LAS LETRAS DEL HEADER---------------------*/
+header nav a:hover {
+    color: #0688E3;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+
+/*--------------- MEDIA QUERY (RESPONSIVE) ---------------*/
+@media screen and ( max-width: 1024px) {
+
+    header nav a {
+    font-size: 15px;
+    }
+}
+
+@media screen and ( max-width: 830px) {
+
+    header {
+        width: 50%;
+    }
+}

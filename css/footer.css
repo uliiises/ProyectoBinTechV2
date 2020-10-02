@@ -1,0 +1,92 @@
+/* -------------------FOOTER------------------- */
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #285471;
+    color: white;
+}
+
+.main_content {
+    display: flex;
+}
+
+.titulo_blog {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.subtitulo_blog {
+    margin-bottom: 5px;
+}
+
+.text {
+    font-size: 12px;
+    font-family: 'corsaGroteskRegular';
+}
+
+.main_content .titulo_footer {
+    background-color: white;
+}
+
+.main_content .left {
+    margin-left: 5%;
+    padding-right: 20px;
+}
+
+.main_content .center {
+    padding-left: 20px;
+    border-color: #FFFFFF;
+    border-left: 2px solid;
+    margin-top: 40px;
+}
+
+.main_content .right{
+    padding-left: 300px;
+    padding-right: 5%;
+}
+
+.main_content .fas {
+    padding-bottom: 5px;
+}
+
+.btn_footer {
+    display: inline-block;
+}
+
+.right button {
+    font-size: 12px;
+}
+
+.boton_up {
+    font-size: 25px;
+    top: 4%;
+    left: 90%;
+    position: absolute;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}
+
+/*--------------- MEDIA QUERY (RESPONSIVE) ---------------*/
+
+@media screen and ( max-width: 1024px) {
+    .main_content .right{
+    padding-left: 100px;
+    padding-right: 10px;
+    }
+    .boton_up {
+    font-size: 20px;
+    }
+}
+
+@media screen and ( max-width: 880px) {
+    .text {
+        font-size: 10px;
+    }
+    .subtitulo_blog {
+    font-size: 15px;
+    }
+
+}

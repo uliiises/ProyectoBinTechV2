@@ -1,0 +1,182 @@
+button {
+    font-size: 1.5em;
+    font-family: 'corsaGrotesk';
+}
+
+.landing_page_background {
+    width: 65%;
+    height: 100%;
+    left: 35%;
+    z-index: initial;
+    position: absolute;
+    object-fit: cover;
+    /*animate*/
+    animation: fadeIn;
+    animation-duration: 13.0s;
+}
+
+.titulo_landing {
+    position: absolute;
+    color: #285371;
+    top: 38%;
+    right: 76%;
+    width: 20%;
+    z-index: 4;
+    font-size: 60px;
+    /*animate*/
+    animation: fadeInDown;
+    animation-duration: 1.5s;
+}
+
+.texto_landing {
+    position: absolute;
+    top: 65%;
+    width: 27%;
+    left: 4%;
+    padding-left: 10px;
+    z-index: 4;
+    font-size: 1.1vw;
+    color: #285471;
+    border-left: 4px solid;
+        /*animate*/
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+
+img.logo_princial {
+    position: absolute;
+    object-fit: cover;
+    z-index: 3;
+    top: 50%;
+    right: 75%;
+    width: 20%;
+    /*animate*/
+    animation: fadeInDown;
+    animation-duration: 4.5s;
+}
+
+img.sec1_capa_1 {
+    width: 80%;
+    height: 100%;
+    z-index: 1;
+    position: absolute;
+	/*animate*/
+	animation: fadeInLeft;
+	animation-duration: 2.0s;
+}
+
+img.sec1_capa_2 {
+    height: 90%;
+    width: auto;
+    top: 10%;
+    object-fit: contain; 
+    z-index: 2;
+    position: absolute;
+	/*animate*/
+	animation: fadeInLeft;
+	animation-duration: 1.0s;
+	/*background-color: #DD7575;*/
+}
+
+img.sec1_capa_3 {
+    left: 75%;
+    width: 25%;
+    object-fit: cover;
+    position: absolute;
+    z-index: 3;
+    /*animate*/
+    animation: fadeInDown;
+    animation-duration: 3.0s;
+}
+
+/*ICONOS PÁGINA PRINCIPAL / BOTON DOWN*/
+div.icons {
+    top: 30%;
+    left: 95%;
+    width: 3em;
+    height: 13em;
+    position: absolute;
+    z-index: 4;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 50px;
+            /*animate*/
+    animation: fadeInRight;
+    animation-duration: 3.0s;
+}
+
+i.fab {
+    display: inline-block;
+    color: #1069A7;
+    font-size: 35px;
+    margin-bottom: 20px;
+        /*animate*/
+    animation: fadeInRight;
+    animation-duration: 3.0s;
+}
+
+.boton_down {
+    top: 85%;
+    left: 90%;
+    padding: 10px; 
+    position: absolute;
+    z-index: 5;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+        /*animate*/
+    animation: fadeIn;
+    animation-duration: 2s;
+}
+
+i.fas {
+    color: #1069A7;
+    font-size: 30px;
+}
+
+/*--------------- MEDIA QUERY (RESPONSIVE) ---------------*/
+
+@media screen and ( max-width: 1024px) {
+    img.sec1_capa_2 {
+        top: 15%;
+        height: 85%;
+    }
+    div.icons {
+    left: 92%;
+    }
+
+    .boton_down {
+    left: 85%;
+    }
+
+
+}
+
+@media screen and ( max-width: 768px) {
+    img.sec1_capa_2 {
+        top: 25%;
+        height: 75%;
+    }
+    img.logo_princial {
+    right: 70%;
+    }
+
+    .texto_landing {
+    font-size: 14px;
+    }
+    .titulo_landing {
+    font-size: 44px;
+    left: 8%;
+    top: 42%;
+    }
+
+
+}
+
+/*@media screen and ( max-width: 425px) {
+    img.sec1_capa_2 {
+        top: 30%;
+        height: 70%;
+    }
+}*/
