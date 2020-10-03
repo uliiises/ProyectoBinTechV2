@@ -50,7 +50,7 @@
 		<h1>Oil & Gas</h1>
 	</div>
 
-	<div class="maintext_industria">
+	<div class="maintext_industria_interna">
 		<div class="text_content">
 			<p>Los modelos de Rentabilidad y Costos tienen aplicación en los procesos de UP STREAM, MIDLE STREAM y DOWN STREAM. En nuestra experiencia con clientes de diferentes países (México, Colombia, Venezuela, España), hemos desarrollado modelos con alcances y objetivos muy diversos.
 			</p>
@@ -66,9 +66,9 @@
 				<li>Por Canal de Distribución</li>
 			</ul>
 			<p>Ejemplo de Análisis de costos y rentabilidad de servicios que integran la cadena de suministro al abastecimiento de Plataformas Costa Afuera</p>
-			<img src="img/oil_gas/grafica1.png" alt="" style="width:80%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+			<img src="img/oil_gas/grafica1.png" alt="" style="width:100%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 			<p>Ejemplo de Asignación de costos (end to end) en proceso de Oil & Gas</p>
-			<img src="img/oil_gas/grafica2.png" alt="" style="width:75%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+			<img src="img/oil_gas/grafica2.png" alt="" style="width:100%; margin-bottom: 100px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 		</div>
 
 		<div class="espacio">

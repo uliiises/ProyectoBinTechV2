@@ -49,17 +49,17 @@
 		<h1>Servicios Financieros</h1>
 	</div>
 
-	<div class="maintext_industria">
+	<div class="maintext_industria_interna">
 		<div class="text_content">
 			<p data-aos="fade-down">Nuestras soluciones ofrecen una nueva vision que brinda a la Dirección de Finanzas un control absoluto y optimo en la administración de todo el ciclo financiero del negocio, lo cual se logra mediante el uso de metodologías y herramientas tecnológicas de vanguardia.</p>
 			<p>Este enfoque de innovación financiera hace posible que la empresa sea capaz de general información oportuna, precisa, segura y totalmente automatizada, al máximo nivel de detalle o granularidad requerido, para sustentan la toma de decisiones a nivel estratégico, táctico y operativo.</p>
 			<p>Algunas de las preguntas que se pueden responder con esta nueva visión de análisis del negocio, son las siguientes: </p>
-			<img src="img/servicios_financieros/grafico1.png" alt="" style="width:75%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+			<img src="img/servicios_financieros/grafico1.png" alt="" style="width:90%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 			<p>A continuación presentamos los principales usos y ventajas de las iniciativas que Bintech ofrece en este sector.
 			</p>
-			<img src="img/servicios_financieros/grafico2.png" alt="" style="width:60%; margin-left:74px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+			<img src="img/servicios_financieros/grafico2.png" alt="" style="width:90%; margin-left:74px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 			<p>Al contar con nuestras soluciones usted obtendrá un modelo financiero integrado que le brindará los siguientes beneficios:</p>
-			<img src="img/servicios_financieros/grafico3.png" alt="" style="width:100%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+			<img src="img/servicios_financieros/grafico3.png" alt="" style="width:120%; margin-bottom: 100px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 		</div>
 
 		<div class="espacio">

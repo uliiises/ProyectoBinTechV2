@@ -83,6 +83,15 @@
 					}
 				}
 
+				@media screen and ( max-width: 1366px) {
+					.punto{
+						height: 20px;
+						width: 20px;
+						top: 42vw;
+						left: 30vw;
+					}
+				}
+
 				.punto:hover {
 					background-color: #4D8FA4;
 				}

@@ -19,6 +19,26 @@
 
 	<link rel="stylesheet" type="text/css" href="css/footer_section/footer_servicios.css">
 
+
+	<style>
+		.historia-title{
+			text-decoration:none;
+			color:#285371;
+			margin-left: 50px;
+			font-size: 3vw;
+		}
+
+		@media screen and (min-width:1600px){
+			
+			button{
+				font-size:1.7vw;
+			}
+
+			.boton-socios{
+				width: 205px;
+			}
+		}
+	</style>
 	<title>Bintech - Nosotros</title>
 </head>
 <body>
@@ -49,7 +69,7 @@
 			<img class="nosotos_sec2_backgroud" src="img/nosotros/section2/fondo-section2.png">
 
 			<div class="">
-				<h1 class="title title-nosotros">historia</h1>
+				<h1 class="title title-nosotros"><a href="#" class="historia-title" id="historia">historia</a></h1>
 				<button role="button" class="boton_down boton-socios" id="mision"> misión </button>
 				<button role="button" class="boton_down boton-socios" id="vision"> visión </button>
 				<button role="button" class="boton_down boton-socios" id="valores"> valores </button>
@@ -60,7 +80,7 @@
 				<h1 class="texto">historia</h1>
 				<div class="historia">
 					<p>
-					Bintech fue fundada por un grupo de consultores expertos en contabilidad directiva y alta tecnología en la época de los noventa, todos provenían de firmas internacionales reconocidas y todos tenían el mismo objetivo: “usar sus conocimientos y experiencias previas para poder beneficiar a otras empresas”.
+					Desde nuestros inicios a principios del año 2000, nuestro enfoque y especialización se ha dirigido siempre a Soluciones Analíticas y de Transformación Financiera para mejorar la rentabilidad de los negocios, lo que nos ha permitido consolidarnos como la empresa más reconocida y con mayor número de proyectos exitosos en dichas practicas en países de Habla Hispana
 					</p>
 				</div>
 			</div>
@@ -105,16 +125,16 @@
 			<div class="bloque-socios" id="bloque-socios">
 				<h1 class="texto">socios</h1>
 				<div class="socios" style="padding-right:168px;">
-					<img src="img/nosotros/section2/logo-1.png" style="margin-left: 94px; width:30%" alt="">
+					<img src="img/nosotros/section2/logo-1.png" class="img-socio" style="margin-left: 94px; width:30%" alt="">
 					<p>
 					Bintech desde su inicios ha estado relacionado y ha sido miembro del CAM-I (ConsortiumforAdvance Management International) que es la organización mas importante a nivel global en investigación y desarrollo de metodologías y practicas para la Gestión de Modelos Financieros integrados de alta eficiencia (Rentabilidad, Costos, Planeación, Presupuestación y Pronósticos), por lo que nuestro equipo esta siempre a la vanguardia en cuando a las nuevas técnicas, metodologías e investigaciones realizadas por dicha autoridad en el ámbito global.
 					</p>
-					<img src="img/nosotros/section2/logo-2.png" alt="" style="margin-left: -373px; width:30%">
-					<p style="margin-left: -437px; width: 73%;">
+					<img src="img/nosotros/section2/logo-2.png" alt=""  class="img-socio2" style="margin-left: -373px; width:30%">
+					<p style="margin-left: -437px; width: 73%;" class="texto-socio2">
 					En la actualidad Bintech es socio de servicios de SAP (SAP Partner) en diferentes países, y somos la firma de consultoría con mas implantaciones exitosas a nivel global de modelos de Rentabilidad y Costos con la solución tecnológica SAP PCM (Profitability and Cost Management).
 					</p>
-					<img src="img/nosotros/section2/logo-3.png" alt="" style="position: absolute; right: 139px;bottom: 256px; width:30%">
-					<p style="position: relative;bottom: 113px;">
+					<img src="img/nosotros/section2/logo-3.png" alt="" class="img-socio3" style="position: absolute; right: 139px;bottom: 256px; width:30%">
+					<p style="position: relative;bottom: 113px; text-align:right;" class="texto-socio3">
 					En 2009 fuimos seleccionados por la Secretaría de Economía de México como una de las 20 empresas Mexicanas de tecnología aptas para desarrollar un procesos de expansión a Estado Unidos mediante el apoyo del programa TECHBA soportado por el instituto IC2 perteneciente a la Universidad de Texas en Austin (UT). Por lo que a partir de dicho año iniciamos operaciones en la unión Americana.
 					</p>
 				</div>
@@ -139,6 +159,15 @@
 			$('#bloque-vision').hide();
 			$('#bloque-valores').hide();
 			$('#bloque-socios').hide();
+		});
+
+		$("#historia").click(function() {
+			$('#bloque-historia').fadeIn(700);
+			$('#bloque-mision').fadeOut(500);
+			$('#bloque-vision').fadeOut(500);
+			$('#bloque-valores').fadeOut(500);
+			$('#bloque-socios').fadeOut(500);
+
 		});
 
 		$("#mision").click(function() {

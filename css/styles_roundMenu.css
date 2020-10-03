@@ -96,3 +96,9 @@
 .menu_circulo_grande:hover .menu_circulo_selector{
 	opacity: 1;
 }
+
+@media screen and (min-width:1600px) {
+	.menu_circulo_grande {
+	left: 60%;
+    }
+}

@@ -44,13 +44,13 @@
 		<h1>Logistica y Transporte</h1>
 	</div>
 
-		<div class="maintext_industria">
+		<div class="maintext_industria_interna">
 		<div class="text_content">
 			<p>Bintech en su experiencia profesional ha asesorado a más de 100 empresas de este sector, entre ellas: agencias aduanales, empresas de transporte, terminales portuarias, empresas de mensajería, almacenes de carga, recintos fiscalizados, líneas navieras, entre otros.</p>
 					<p>Dentro de los beneficios que dichas empresa han recibido, mencionamos los siguientes:</p>
-					<img src="img/logistica_transporte/grafica1.png" width="78%" alt=""  data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+					<img src="img/logistica_transporte/grafica1.png" alt=""  data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 					<p>Aplicación de los modelos de rentabilidad en la cadena de valor de los servicios de importación de mercancías, con todos los procesos que implica, desde la descarga de buque, hasta la desaduanización y entrega al cliente final.</p>
-					<img src="img/logistica_transporte/grafica2.png" alt="" style="width:80%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+					<img src="img/logistica_transporte/grafica2.png" alt="" style="width:90%; margin-bottom: 100px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 		</div>
 		<div class="espacio">
 			<?php require_once "cabeceras/footer.php"; ?>

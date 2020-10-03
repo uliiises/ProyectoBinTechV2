@@ -87,6 +87,13 @@ h1,h2,h3,h4,h5{
         top: 35%;
     }
 }
+
+@media screen and ( max-width: 1366px) {
+    .dif_200 {
+        top: 50%;
+    }
+}
+
 .dif_200 span{
     font-size: 0.9vw;
     position: absolute;
@@ -552,7 +559,7 @@ p.texto_contenedor_blog {
     margin-top: 13px;
     margin-left: 27px;
     margin-bottom: 0;
-    font-size: 30px;
+    font-size: 2.2vw;
 }
 .lista_dif li{
     margin-left: 20px;
@@ -560,23 +567,6 @@ p.texto_contenedor_blog {
     font-size: 14px;
 }
 
-
-@media screen and (min-width:1600px){
-    .lista_dif li{
-        font-size: 1.2vw;
-    }
-    .lista_dif li:nth-child(1){
-        width: 42vw;
-    }
-
-    .lista_dif li:nth-child(3){
-        width: 42vw;
-    }
-
-    .lista_dif li:nth-child(5){
-        width: 24vw;
-    }
-}
 .servicios_sec2_iconos {
     position: absolute;
     top: 60%;
@@ -587,7 +577,7 @@ p.texto_contenedor_blog {
     height: 40px;
 }
 .servicios_titlepapm {
-    font-size: 30px;
+    font-size: 2.2vw;
     position: absolute;
 }
 .servicios_subpapm{
@@ -597,7 +587,7 @@ p.texto_contenedor_blog {
 }
 
 .mejoramiento-title{
-  font-size: 30px;
+  font-size: 2vw;
   color: white;
   position: absolute;
   right: 3%;
@@ -613,7 +603,7 @@ p.texto_contenedor_blog {
       top: 15%;
       bottom: 0;
       color: white;
-      font-size: 16px; 
+      font-size: 1.3vw; 
       list-style-image: url(../img/servicios/section2/rombo.png);
       list-style-position: inside;
       text-align: right;     
@@ -651,9 +641,69 @@ p.texto_contenedor_blog {
 }
 
 /* ---------- MEDIAQUERY SECCIÓN 2, 3 y 4 ---------- */
+@media screen and (min-width:1600px){
+    .lista_dif li{
+        font-size: 1.2vw;
+    }
+    .lista_dif li:nth-child(1){
+        width: 42vw;
+    }
+
+    .lista_dif li:nth-child(3){
+        width: 42vw;
+    }
+
+    .lista_dif li:nth-child(5){
+        width: 24vw;
+    }
+
+    .servicios_imgsap {
+    height: 2.9vw;
+    }
+    .servicios_subpapm{
+    font-size: 0.8vw;
+    }
+
+    .servicios_sec2_iconos_4 {
+    margin-left: 400px;
+    }
+}
+
+@media screen and ( max-width: 1366px) {
+    .lista_mejoramiento {
+        font-size: 14px;
+    }
+    .lista_dif li{
+        font-size: 12px;
+    }   
+
+    .servicios_titlepapm {
+    font-size: 1.8vw;
+    }
+    .servicios_imgsap {
+    height: 2vw;
+    }
+    .servicios_sec2_iconos_2 {
+    top: 50%;
+    }
+    .servicios_sec2_iconos_3 {
+    top: 35%;
+    }
+    .servicios_sec2_iconos_4 {
+    top: 35%;
+    }
+    .servicios_sec2_iconos_5 {
+    top: 45%;
+    }
+    .servicios_sec2_iconos_6 {
+    top: 55%;
+    }
+}
+
 @media screen and ( max-width: 1100px) {
     .servicios_sec2_title {
     font-size: 20px;
+    margin-top: 15%;
     }
     .lista_dif li {
     font-size: 10px;
@@ -687,6 +737,7 @@ p.texto_contenedor_blog {
     width: 30%;
     margin-bottom: 40px;
     font-family: corsaGroteskRegular;
+    font-size: 1.2vw;
 }
 
 .sec5_flex {
@@ -696,13 +747,27 @@ p.texto_contenedor_blog {
     font-family: corsaGroteskRegular;
     width: 22%;
     list-style-image: url(../img/index/section2/puntos.png);
+    font-size: 1.2vw;
 
 }
 .servicios_sec5_lista3 {
     font-family: corsaGroteskRegular;
-    width: 22%;
+    width: 28%;
     list-style-image: url(../img/index/section2/puntos.png);
     list-style-position: inside;
+    font-size: 1.2vw;
+}
+
+@media screen and (min-width:1600px) {
+#consultoria_title, #capacitacion_title {
+    margin-top: 140px;
+    }
+}
+@media screen and ( max-width: 1366px) {
+    .servicios_sec5_lista li{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
 }
 
 @media screen and ( max-width: 1200px) {
@@ -728,7 +793,7 @@ p.texto_contenedor_blog {
 
 .servicios_sec6_title {
     color: #285471;
-    font-size: 30px;
+    font-size: 2.8vw;
     position: absolute;
     right: 3%;
     top: 0;
@@ -740,20 +805,22 @@ p.texto_contenedor_blog {
   position: relative;
     z-index: 7;
     float: right;
-    width: 28%;
-    top: 120px;
+    width: 39%;
+    top: 14vw;
     text-align: right;
     margin-right: 46px;
+    font-size: 1.3vw;
     font-family: corsaGroteskRegular;
 }
 
 .sec6_flex {
     display: flex;
     font-family: corsaGroteskRegular;
+    font-size: 1.2vw;
     width: 56%;
     margin-top: 30%;
     margin-left: 40%;
-    text-align: right;
+    list-style-image: url(../img/index/section2/puntos.png);    
 }
 
 @media screen and ( max-width: 1200px) {
@@ -791,8 +858,9 @@ div.industrias_sec2_texto {
     color: #285471;
     border-left: 4px solid;
     padding-left: 10px;
-    margin-bottom: 15%;
-    width: 20%;
+    margin-bottom: 25%;
+    width: 40%;
+    font-size: 1.2vw;
 }
 
 
@@ -837,7 +905,7 @@ div.industrias_sec2_texto {
     right: 76%;
     width: 20%;
     z-index: 4;
-    font-size: 20px;
+    font-size: 1.3vw;
     /*animate*/
     animation: fadeIn;
     animation-duration: 6.5s;
@@ -846,6 +914,14 @@ div.industrias_sec2_texto {
     position: absolute;
     top: 110%;
     width: 100%;
+}
+
+.maintext_industria_interna {
+    font-size: 1.2vw;
+    position: absolute;
+    top: 110%;
+    width: 100%;
+    padding-bottom: 5%;
 }
 
 .text_content {
@@ -881,10 +957,22 @@ div.industrias_sec2_texto {
     animation-duration: 6.5s;
 }
 
+@media screen and (min-width:1600px){
+    .texto_landing_clientes {
+    font-size: 30px;
+    }
+}
+
+@media screen and ( max-width: 1366px) {
+    .texto_landing_clientes {
+    font-size: 14px;
+    }
+}
+
 @media screen and ( max-width: 1024px) {
     .texto_landing_clientes {
     font-size: 11px;
-}
+    }
 }
 
 
@@ -915,11 +1003,36 @@ div.industrias_sec2_texto {
   font-weight: bolder;
 }
 
-
-
 .bloque img{
   height: 70px;
 }
+
+@media screen and (min-width:1600px){
+    .iconos-clientes {
+        height: 300px;
+    }
+    .bloque {
+        margin-top: 60px;
+        padding-right: 300px;
+  }
+  .bloque img{
+  height: 120px;
+  }
+}
+
+@media screen and ( max-width: 1366px) {
+    .bloque {
+         padding-right: 135px;
+    }
+  .bloque img{
+  height: 70px;
+  }
+}
+
+/*@media screen and ( max-width: 1024px) {
+
+}*/
+
 
 .logo-clientes2{
   width: 1269px;
@@ -929,7 +1042,7 @@ div.industrias_sec2_texto {
 
 .iconos-clientes h1{
 
-  font-size: 50px;
+  font-size: 3vw;
   margin-left: 30px;
   color: #1069A7;
 }
@@ -973,6 +1086,22 @@ div.industrias_sec2_texto {
     margin-bottom: 30px;
     color: #285371;
     font-weight: bolder;
+    font-size: 14px;
+}
+
+@media screen and (min-width:1600px){
+    .cruzazul-text{
+    top: 350px;
+    left: 570px;
+    font-size: 1.2vw;
+    }
+
+    .logo-chico{
+  width: 458px !important;
+  height: 224px !important;
+  top: 550px;
+  margin-left: 70px;
+  }
 }
 
 .boton-cerrar{
@@ -1149,7 +1278,7 @@ div.industrias_sec2_texto {
 
 .texto{
   color: white;
-  font-size: 50px;
+  font-size: 3vw;
   position: absolute;
   top: 37px;
   right: 80px;
@@ -1160,8 +1289,8 @@ div.industrias_sec2_texto {
     color: white;
     width: 33%;
     right: 59px;
-    top: 160px;
-    font-size: 22px;
+    top: 190px;
+    font-size: 1.5vw;
 }
 
 .lista-vision{
@@ -1175,7 +1304,7 @@ div.industrias_sec2_texto {
 .valores {
   position: absolute;
   color: white;
-  width: 68%;
+  width: 50%;
   right: 59px;
   top: 160px;
   font-size: 22px;
@@ -1195,7 +1324,54 @@ div.industrias_sec2_texto {
     top: 160px;
     font-size: 15px;
 }
+@media screen and (min-width:1600px) {
+    .nosotros_sec2_capa_2 {
+    width: 94%;
+    }
 
+    .lista-vision {
+    font-size: 1.3vw;
+    }
+    .lista-valores {
+    font-size: 1.5vw;
+    }
+    .socios {
+    font-size: 1.1vw;
+    }
+    .img-socio2{
+        margin-left: -623px !important;
+    }
+    .img-socio3{
+    position: absolute;
+    right: 139px;
+    bottom: 600px !important;
+    width: 30%;
+    }
+    .texto-socio2 {
+    margin-left: -623px !important;
+    }
+    .texto-socio3{
+        position: relative;
+    bottom: 283px !important;
+    text-align: right !important;
+    }
+}
+
+@media screen and ( max-width: 1366px) {
+     .lista-vision {
+    font-size: 1.1vw;
+    }
+    .lista-valores {
+    font-size: 1.1vw;
+    }
+    .socios {
+    font-size: 1vw;
+    }
+    .img-socio{
+        margin-top: -50px;
+    }
+
+}
 @media screen and ( max-width: 1024px) {
     .nosotros_sec2_capa_2 {
     height: 73%;
@@ -1242,6 +1418,17 @@ div.industrias_sec2_texto {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+@media screen and (min-width:1600px){
+            .formulario_contacto{
+            font-size: 1.5vw;
+            }
+
+            textarea,input[type=text],input[type=email],input[type=tel]{
+                width: 110%;
+            }
+
+        }
 
 
 

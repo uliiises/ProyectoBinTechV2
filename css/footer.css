@@ -71,6 +71,39 @@ footer {
 
 /*--------------- MEDIA QUERY (RESPONSIVE) ---------------*/
 
+@media screen and (min-width:1600px) {
+    .titulo_blog {
+    font-size: 2.5vw;
+    }
+    .subtitulo_blog {
+    font-size: 2vw;
+    }
+    #subtitulo_blog_2{
+        margin-top: 100px;
+    }
+    .text {
+    font-size: 1.3vw;
+    }
+    .fas {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .main_content .right{
+    padding-left: 300px;
+    }
+    textarea {
+    width: 600px;
+    height: 130px;
+    }
+    .input_email {
+        width: 500px;
+        height: 50px;
+    }
+    .right button {
+    font-size: 1vw;
+    }
+ }
+
 @media screen and ( max-width: 1024px) {
     .main_content .right{
     padding-left: 100px;

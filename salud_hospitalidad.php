@@ -45,14 +45,14 @@
 		<h1>Salud y hospitalidad</h1>
 	</div>
 
-		<div class="maintext_industria">
+		<div class="maintext_industria_interna">
 		<div class="text_content" >
 			<p>En Bintech hemos asesorado a Instituciones de salud públicas y privadas en diversos países. Somos pioneros en la institucionalización de modelos financieros de rentabilidad, gestión de costos y planeación vinculados. Utilizamos tecnología SAP EPM (Enterprise Performance Management) como se muestra a continuación.</p>
 					<p>Ofrecemos soluciones a partir de modelos financieros integrados y vinculados con las aplicaciones tecnológicas, éstos contienen los datos financieros y operativos de la organización. Nuestro objetivo es generar información confiable y oportuna para la toma de decisiones.</p>
-					<img src="img/salud_hospitalidad/grafica1.png" alt="" style="width:95%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+					<img src="img/salud_hospitalidad/grafica1.png" alt="" style="width:100%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 					<p><b>Optimización de la base de coste:</b> Tal vez este sea uno de los requerimientos más importantes de los servicios de salud. Para definir escenarios futuros de operación, así como el uso de los recursos, es muy importante conocer: el Coste por Paciente, Coste por Grupo Relacional de Diagnóstico, Coste por Grupo Relacional Ambulatorio, y Los costes y rendimiento de las operaciones de apoyo, como mantenimiento, abastecimientos o logística.</p>
 					<p>Beneficios de conocer el costo por paciente para cada una de las áreas de la organización</p>
-					<img src="img/salud_hospitalidad/grafica2.png" alt="" style="width:95%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+					<img src="img/salud_hospitalidad/grafica2.png" alt="" style="width:105%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 					<p><b>Planificación de recursos:</b> Utilizar modelos sustentados en indicadores de rendimiento, más que en transacciones contables, ha permitido eliminar el pensamiento de “auditor” a la hora de consolidar información financiera para elaborar informes de planificación, y evitar los informes que adolecen de contenido práctico para la toma de decisiones sobre:</p>
 					<ul>
 						<li>Cómo reducir el coste por transacción o atención a cada paciente.</li>
@@ -61,7 +61,7 @@
 					</ul>
 					<p><b>Alineación estratégica:</b> Los informes financieros, así como los datos que los soportan, suelen ser innumerables. Sin embargo, un estudio realizado concluye que de todos los datos que genera la Dirección Financiera, se utiliza sólo entre el 4 al 6% en la toma de decisiones. Por lo tanto, es necesario identificar las principales estrategias de negocio, y mantener los pasos para alienar y comunicar las iniciativas estratégicas con las acciones a ejecutar en el tiempo.</p>
 					<p><b>Como conclusión, podemos afirmar que le proceso de Medición y Evaluación del Rendimiento de los servicios de Salud y Hospitalidad, implica un trabajo continuo que requiere información del pasado, la situación actual, y escenarios con vista a lo que pudiera suceder en el futuro. Los roles de las personas que toman decisiones involucran diferentes requerimientos de información.</b></p>
-					<img src="img/salud_hospitalidad/grafica3.png" alt="" style="width:95%;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+					<img src="img/salud_hospitalidad/grafica3.png" alt="" style="width:105%; margin-bottom: 100px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 
 		</div>
 		<div class="espacio">

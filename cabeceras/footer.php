@@ -24,7 +24,7 @@
 						</div>
 
 						<div class="center box">
-							<h3 class="subtitulo_blog">Estados Unidos</h3>
+							<h3 class="subtitulo_blog" id="subtitulo_blog_2">Estados Unidos</h3>
 							<div class="place">
 									<span class="fas fa-map-marker-alt"></span>
 								<span class="text">2800 Post Oak Blvd. Suite 1400. Huston, TX. 77056</span>
@@ -46,7 +46,7 @@
 						<form action="#">
 							<div class="email">
 								<div class="text">Email *</div>
-								<input type="email" required>
+								<input class="input_email" type="email" required>
   								<div role="button" class="btn_footer">
 									<button>enviar</button>
 								</div> 

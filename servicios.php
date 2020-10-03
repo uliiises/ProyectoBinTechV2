@@ -164,7 +164,7 @@
 			<img class="sec5_capa_1" src="img/servicios/section5/sec5_capa_1.png">
 			<img class="sec5_capa_backgroud" src="img/servicios/section5/servicios_sec5_fondo.png">
 
-			<h1 class="servicios_sec2_title">Consultoría <br>de negocios</h1> 
+			<h1 class="servicios_sec2_title" id="consultoria_title">Consultoría <br>de negocios</h1> 
 
 			<div class="servicios_sec5_lista">
 				<ul>
@@ -227,7 +227,7 @@
 				<img class="sec5_capa_1" src="img/servicios/section5/sec5_capa_1.png">
 				<img class="sec5_capa_backgroud" src="img/servicios/section7/fondo.png">
 
-				<h1 class="servicios_sec2_title">Capacitación</h1> 
+				<h1 class="servicios_sec2_title" id="capacitacion_title">Capacitación</h1> 
 
 				<div class="servicios_sec5_lista">
 					<ul>

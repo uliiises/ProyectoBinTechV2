@@ -49,7 +49,7 @@
 		<h1>Manufactura y Consumo</h1>
 	</div>
 
-	<div class="maintext_industria">
+	<div class="maintext_industria_interna">
 		<div class="text_content">
 			<p>Algunas de las principales ventajas que nuestras soluciones aportan a clientes de estas industrias son las siguientes:</p>
 			<ul style="width: 59%;">
@@ -61,9 +61,9 @@
 				<li>Contar con una Planeación, Presupuestación y Pronósticos basados en métricas de desempeño reales y objetivas</li>
 			</ul>
 			<p>Ejemplo de integración de costo total de producto para análisis de rentabilidad</p>
-			<img src="img/manufactura_consumo/grafica1.png" alt="" style="width:39%;margin-left: 80px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+			<img src="img/manufactura_consumo/grafica1.png" alt="" style="width:50%;margin-left: 80px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 			<p>Revelaciones típicas en empresas de Manufactura al implantar iniciativas de Administración de Rentabilidad y Costos</p>
-			<img src="img/manufactura_consumo/grafica2.png" alt="" style="width:49%;margin-left: 42px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+			<img src="img/manufactura_consumo/grafica2.png" alt="" style="width:58%;margin-left: 42px; margin-bottom: 100px;" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
 		</div>
 
 		<div class="espacio">

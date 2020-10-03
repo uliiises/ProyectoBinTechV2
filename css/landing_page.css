@@ -22,7 +22,7 @@ button {
     right: 76%;
     width: 20%;
     z-index: 4;
-    font-size: 60px;
+    font-size: 5vw;
     /*animate*/
     animation: fadeInDown;
     animation-duration: 1.5s;
@@ -35,7 +35,7 @@ button {
     left: 4%;
     padding-left: 10px;
     z-index: 4;
-    font-size: 1.1vw;
+    font-size: 1.3vw;
     color: #285471;
     border-left: 4px solid;
         /*animate*/
@@ -91,10 +91,10 @@ img.sec1_capa_3 {
 
 /*ICONOS PÁGINA PRINCIPAL / BOTON DOWN*/
 div.icons {
-    top: 30%;
+    top: 40%;
     left: 95%;
     width: 3em;
-    height: 13em;
+    height: 13.5em;
     position: absolute;
     z-index: 4;
     text-align: center;
@@ -109,10 +109,23 @@ i.fab {
     display: inline-block;
     color: #1069A7;
     font-size: 35px;
-    margin-bottom: 20px;
+    margin-top: 15px;
         /*animate*/
     animation: fadeInRight;
     animation-duration: 3.0s;
+}
+
+@media screen and (min-width:1600px){
+    div.icons {
+    left: 95%;
+    width: 6em;
+    height: 26em;
+}
+
+i.fab {
+    font-size: 3vw;
+    margin-top: 25px;
+    }
 }
 
 .boton_down {
@@ -136,6 +149,8 @@ i.fas {
 }
 
 /*--------------- MEDIA QUERY (RESPONSIVE) ---------------*/
+
+
 
 @media screen and ( max-width: 1024px) {
     img.sec1_capa_2 {
