@@ -103,7 +103,7 @@
 					.punto{
 						height: 15px;
 						width: 15px;
-						top: 450px;
+						top: 80%;
 						left: 40%;
 					}
 				}
