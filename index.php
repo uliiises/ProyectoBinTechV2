@@ -18,17 +18,21 @@
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 
 	<title>Bintech - Inicio</title>
+
 </head>
 
 <body>
+	<?php require_once "cabeceras/header_movil.php"; ?>
 	<!-- ------------------------- SECCIÓN1 ------------------------- -->
 	<div class="main">
 		<?php require_once "cabeceras/header.php"; ?>
-		<section>
+		<section class="section_screen">
 			<img class="landing_page_background" src="img/index/section1/background.png">
 			<img class="sec1_capa_1" src="img/landing_page/sec1_capa_1.png">
 			<img class="sec1_capa_2" src="img/landing_page/sec1_capa_2.png">
 			<img class="sec1_capa_3" src="img/landing_page/sec1_capa_3.png">
+
+			<img class="sec1_capa_4_movil" src="img/landing_page/sec1_capa_4_movil.png">
 
 			<img class="logo_princial" src="img/landing_page/Logo principal.png">
 
@@ -92,6 +96,18 @@
 					}
 				}
 
+				@media screen and ( max-width: 500px) {
+					.boton_textos {
+					padding: 5px 10px;
+					}
+					.punto{
+						height: 15px;
+						width: 15px;
+						top: 450px;
+						left: 40%;
+					}
+				}
+
 				.punto:hover {
 					background-color: #4D8FA4;
 				}
@@ -141,7 +157,7 @@
 		</section>
 
 		<!-- ------------------------- SECCIÓN2 ------------------------- -->
-		<section>
+		<section class="section_screen">
 			<img class="sec2_capa_1" src="img/index/section2/sec2_capa_1.png">
 			<img class="sec2_capa_2" src="img/index/section2/sec2_capa_2.png">
 			<img class="sec2_capa_backgroud" src="img/index/section2/sec2_backgroud.png">
@@ -190,7 +206,7 @@
 			</div>
 		</section>
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
-		<section>
+		<section class="section_screen">
 			<img class="sec3_background" alt="" src="img/index/section3/sec3_background.png">
 			<img class="sec3_capa1" alt="" src="img/index/section3/sec3_capa1.png">
 			<img class="sec3_capa2" alt="" src="img/index/section3/sec3_capa2.png">
@@ -283,7 +299,7 @@
 
 		</section>
 		<!-- ------------------------- SECCIÓN4 ------------------------- -->
-		<section>
+		<section class="section_screen">
 			<h1 class="sec4_titulo_blog">blog</h1>
 
 			<div class="contenedor_blog_principal">

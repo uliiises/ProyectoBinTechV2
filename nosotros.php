@@ -42,6 +42,7 @@
 	<title>Bintech - Nosotros</title>
 </head>
 <body>
+	<?php require_once "cabeceras/header_movil.php"; ?>
 <!-- ------------------------- SECCIÓN1 ------------------------- -->
 	<div class="main">
 		<?php require_once "cabeceras/header.php"; ?>

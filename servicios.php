@@ -22,6 +22,7 @@
 	<title>Bintech - Servicios</title>
 </head>
 <body>
+	<?php require_once "cabeceras/header_movil.php"; ?>
 <!-- ------------------------- SECCIÓN1 ------------------------- -->
 	<div class="main">
 		<?php require_once "cabeceras/header.php"; ?>
@@ -30,6 +31,8 @@
 			<img class="sec1_capa_1" src="img/landing_page/sec1_capa_1.png">
 			<img class="sec1_capa_2" src="img/landing_page/sec1_capa_2.png">
 			<img class="sec1_capa_3" src="img/landing_page/sec1_capa_3.png">
+
+			<img class="sec1_capa_4_movil" src="img/landing_page/sec1_capa_4_movil.png">
 
 			<h1 class="titulo_landing">Servicios</h1>
 

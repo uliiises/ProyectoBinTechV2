@@ -27,7 +27,7 @@
 	<title>Bintech - Industrias</title>
 </head>
 <body>
-
+	<?php require_once "cabeceras/header_movil.php"; ?>
 	<?php require_once "cabeceras/header.php"; ?>
 
 	<img class="landing_page_background" src="img/industrias/section1/industrias_sec1_background.png">
