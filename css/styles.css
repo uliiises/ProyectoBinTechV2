@@ -975,6 +975,16 @@ div.industrias_sec2_texto {
     }
 }
 
+@media screen and ( max-width: 500px) {
+    .texto_landing_clientes {
+    position: absolute;
+    top: 45%;
+    width: 50%;
+    left: 4%;
+    padding-left: 10px;
+    font-size: 14px;
+}
+}
 
 /* ---------- SECCION 2 ---------- */
 .texto-clientes {

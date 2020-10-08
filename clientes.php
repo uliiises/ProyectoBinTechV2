@@ -32,10 +32,12 @@
 			<img class="sec1_capa_2" src="img/landing_page/sec1_capa_2.png">
 			<img class="sec1_capa_3" src="img/landing_page/sec1_capa_3.png">
 
+			<img class="sec1_capa_4_movil" src="img/landing_page/sec1_capa_4_movil.png">
+
 			<h1 class="titulo_landing">Clientes</h1>
 
 			<div class="texto_landing_clientes">
-				Con más de 20 años en el mercado, hemos acumulado mucha experiencia que nos da ventaja sobre otras compañías de innovación financiera. Sabemos que cada organización y grupo de trabajo requiere soluciones flexibles y específicas. Por lo tanto, las prácticas de industria que proponemos representan una referencia valiosa que brinda a nuestros Clientes seguridad y reduce riesgos.<br>Como parte de nuestro servicio metodológico podemos hacerle saber cómo transformar los modelos y procesos financieros de su organización, siempre con el sustento de nuestra plataforma tecnológica.
+				Con más de 20 años en el mercado, hemos acumulado mucha experiencia que nos da ventaja sobre otras compañías de innovación financiera.<br>A continuación mencionamos algunas de las empresas que hemos asesorado por tipo de industria.
 			</div>
 
 			<!-- <button role="button" class="boton_down"> <i class="fas fa-caret-down"></i> bajar </button> -->

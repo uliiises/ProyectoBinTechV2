@@ -52,6 +52,8 @@
 			<img class="sec1_capa_2" src="img/landing_page/sec1_capa_2.png">
 			<img class="sec1_capa_3" src="img/landing_page/sec1_capa_3.png">
 
+			<img class="sec1_capa_4_movil" src="img/landing_page/sec1_capa_4_movil.png">
+
 			<h1 class="titulo_landing">Nosotros</h1>
 
 			<div class="texto_landing">
