@@ -55,6 +55,10 @@ h1,h2,h3,h4,h5{
     z-index: -1;
 }
 
+.sec2_capa_3 {
+    display: none;
+}
+
 .sec2_capa_backgroud {
     object-fit: cover;
     position: absolute;
@@ -178,6 +182,42 @@ h1,h2,h3,h4,h5{
     width: 51%;
     bottom: 5%;
 }
+}
+
+@media screen and ( max-width: 500px) {
+    img.sec2_capa_1, img.sec2_capa_2 {
+        display: none;
+    }
+    img.sec2_capa_3 {
+        display: block;
+        z-index: -1;
+        position: absolute;
+        height: 65%;
+        width: 120%;
+        right: 0;
+    }
+    .sec2_capa_backgroud {
+        width: 100%;
+        height: 70%;
+    }
+    .sec2_titulo {
+    width: 50%;
+    font-size: 25px;
+}
+.lista_dif{
+    width: 60%;
+}
+.lista_dif li {
+    font-size: 11px;
+}
+.dif_200{
+    font-size: 40px;
+    top: 38%;
+}
+.dif_200 span{
+    font-size: 10px;
+}
+
 }
 
 
@@ -669,7 +709,7 @@ p.texto_contenedor_blog {
     }
 }
 
-@media screen and ( max-width: 1366px) {
+@media screen and ( min-width: 1366px) {
     .lista_mejoramiento {
         font-size: 14px;
     }
@@ -1038,11 +1078,6 @@ div.industrias_sec2_texto {
   height: 70px;
   }
 }
-
-/*@media screen and ( max-width: 1024px) {
-
-}*/
-
 
 .logo-clientes2{
   width: 1269px;

@@ -26,7 +26,7 @@
 	<!-- ------------------------- SECCIÓN1 ------------------------- -->
 	<div class="main">
 		<?php require_once "cabeceras/header.php"; ?>
-		<section class="section_screen">
+		<section>
 			<img class="landing_page_background" src="img/index/section1/background.png">
 			<img class="sec1_capa_1" src="img/landing_page/sec1_capa_1.png">
 			<img class="sec1_capa_2" src="img/landing_page/sec1_capa_2.png">
@@ -101,8 +101,8 @@
 					padding: 5px 10px;
 					}
 					.punto{
-						height: 15px;
-						width: 15px;
+						height: 20px;
+						width: 20px;
 						top: 80%;
 						left: 40%;
 					}
@@ -157,10 +157,12 @@
 		</section>
 
 		<!-- ------------------------- SECCIÓN2 ------------------------- -->
-		<section class="section_screen">
+		<section>
 			<img class="sec2_capa_1" src="img/index/section2/sec2_capa_1.png">
 			<img class="sec2_capa_2" src="img/index/section2/sec2_capa_2.png">
 			<img class="sec2_capa_backgroud" src="img/index/section2/sec2_backgroud.png">
+
+			<img class="sec2_capa_3" src="img/index/section2/sec2_capa_3.png">
 
 			<h1 class="sec2_titulo">
 				Diferenciadores <br> y ventajas
@@ -205,8 +207,11 @@
 					valor y satisfacer a los empleados, clientes y accionistas</p>
 			</div>
 		</section>
+
+		
+		
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
-		<section class="section_screen">
+		<section>
 			<img class="sec3_background" alt="" src="img/index/section3/sec3_background.png">
 			<img class="sec3_capa1" alt="" src="img/index/section3/sec3_capa1.png">
 			<img class="sec3_capa2" alt="" src="img/index/section3/sec3_capa2.png">
@@ -299,7 +304,7 @@
 
 		</section>
 		<!-- ------------------------- SECCIÓN4 ------------------------- -->
-		<section class="section_screen">
+		<section>
 			<h1 class="sec4_titulo_blog">blog</h1>
 
 			<div class="contenedor_blog_principal">
@@ -340,6 +345,7 @@
 	</div>
 
 	<script src="js/main.js"></script>
+	<script src="js/slider.js"></script>
 </body>
 
 </html>
