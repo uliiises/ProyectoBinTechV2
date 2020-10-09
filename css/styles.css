@@ -285,7 +285,7 @@ and (max-device-height : 667px){
 
 .dif_200{
     font-size: 16px;
-    top: 44%;
+    top: 48%;
 }
 .dif_200 span{
     font-size: 5px;
@@ -674,7 +674,7 @@ and (max-device-height : 667px) {
     margin-top: 10px;
 }
 .index_sec3_BPC {
-    width: 42vw;
+    width: 38vw;
     margin-left:25px;
     margin-top: 10px;
 }
@@ -684,7 +684,7 @@ and (max-device-height : 667px) {
     margin-top: 10px;
 }
 .index_sec3_BW {
-    width: 24vw;
+    width: 22vw;
     margin-left: 50px;
     margin-top: 10px;
 }
