@@ -645,7 +645,7 @@ and (max-device-height : 667px) {
     .index_sec3_industrias {
     position: absolute;
     width: 60%;
-    height: 22%;
+    height: 23%;
     left: 18%;
 }
 
@@ -659,32 +659,32 @@ and (max-device-height : 667px) {
     margin-top: 10px;
 }
 .index_sec3_DWC {
-    width: 26vw;
+    width: 24vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_HANA {
     width: 26vw;
-    margin-left: 50px;
+    margin-left: 56px;
     margin-top: 10px;
 }
 .index_sec3_FPSL {
-    width: 26vw;
-    margin-left: 50px;
+    width: 28vw;
+    margin-left: 56px;
     margin-top: 10px;
 }
 .index_sec3_BPC {
-    width: 44vw;
+    width: 42vw;
     margin-left:25px;
     margin-top: 10px;
 }
 .index_sec3_SAC {
-    width: 26vw;
+    width: 24vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_BW {
-    width: 26vw;
+    width: 24vw;
     margin-left: 50px;
     margin-top: 10px;
 }
