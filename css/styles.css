@@ -285,7 +285,7 @@ and (max-device-height : 667px){
 
 .dif_200{
     font-size: 16px;
-    top: 42%;
+    top: 44%;
 }
 .dif_200 span{
     font-size: 5px;
@@ -634,19 +634,19 @@ and (max-device-height : 667px){
 }
 
 .index_sec3_industrias {
-    position: relative;
+    position: absolute;
     width: 75%;
     height: 25%;
-    margin-left: 10%;
-    margin-top: 50px;
+    left: 10%;
+    top: 62%;
 }
 @media only screen 
 and (max-device-height : 667px) {
     .index_sec3_industrias {
-    position: relative;
+    position: absolute;
     width: 60%;
     height: 22%;
-    margin-left: 18%;
+    left: 18%;
 }
 
 .index_sec3_texto_movil {
