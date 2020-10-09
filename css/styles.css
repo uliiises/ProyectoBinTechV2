@@ -283,8 +283,11 @@ and (max-device-height : 667px){
 }
 
 .dif_200{
-    font-size: 15px;
+    font-size: 16px;
     top: 40%;
+}
+.dif_200 span{
+    font-size: 8px;
 }
 
 .icono_index_sec2 {
