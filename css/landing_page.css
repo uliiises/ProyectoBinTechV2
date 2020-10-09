@@ -192,6 +192,7 @@ i.fas {
 /*MOVIL*/
 .sec1_capa_4_movil{
     display: none;
+    z-index: 2;
 }
 
 @media screen and ( max-width: 500px) {

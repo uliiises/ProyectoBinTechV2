@@ -213,94 +213,24 @@
 		
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
 		<section>
-			<img class="sec3_background" alt="" src="../img/index/section3/sec3_background.png">
-			<img class="sec3_capa1" alt="" src="../img/index/section3/sec3_capa1.png">
-			<img class="sec3_capa2" alt="" src="../img/index/section3/sec3_capa2.png">
-			<h1 class="exp-title">Experiencia certificada</h1>
-			<p class="exp-text">Somos la firma con más implantaciones de modelos de rentabilidad y costos, mediante el
-				uso de las herramientas tecnológicas de SAP</p>
+			<!-- <img class="sec3_background" alt="" src="../img/index/section3/sec3_background.png"> -->
+			<img class="index_sec3_background" src="cabeceras/img_movil/fondo_index_sec2_5.png">
 
-			<div class="sec3_iconos_contenedor_1">
-				<img src="../img/index/section3/sap-papm.png" class="sap-papm" alt=""> <span class="tit-papm">PaPM</span>
-				<span class="sub-papm">Probability and Performance Management</span>
-			</div>
+			<h1 class="dif_title_2">
+				Experiencia<br>Certificada
+			</h1>
 
-			<div class="sec3_iconos_contenedor_2">
-				<img src="../img/index/section3/sap-papm.png" class="sap-papm" alt=""> <span class="tit-papm">DWC</span>
-				<span class="sub-papm">Data Warehouse Cloud</span>
-			</div>
+			<p class="index_sec3_texto_movil">Somos la firma con más implantaciones de modelos de rentabilidad y costos, mediante el uso de las herramientas tecnológicas de SAP</p>
 
-			<div class="sec3_iconos_contenedor_3">
-				<img src="../img/index/section3/sap-papm.png" class="sap-papm" alt=""> <span class="tit-papm">HANA</span>
-				<span class="sub-papm">Base de Datos</span>
-			</div>
+			<img class="index_sec3_PAPM" src="cabeceras/img_movil/PaPM.png">
+ 			<img class="index_sec3_DWC" src="cabeceras/img_movil/DWC.png">
+ 			<img class="index_sec3_SAC" src="cabeceras/img_movil/SAC.png">
+			<img class="index_sec3_HANA" src="cabeceras/img_movil/HANA.png">
+			<img class="index_sec3_BW" src="cabeceras/img_movil/BW.png">
+			<img class="index_sec3_FPSL" src="cabeceras/img_movil/FPSL.png">
+			<img class="index_sec3_BPC" src="cabeceras/img_movil/BCP.png">
 
-			<div class="sec3_iconos_contenedor_4">
-				<img src="../img/index/section3/sap-papm.png" class="sap-papm" alt=""> <span class="tit-papm">FPSL</span>
-				<span class="sub-papm">Financial Product Subledger</span>
-			</div>
-
-			<div class="sec3_iconos_contenedor_5">
-				<img src="../img/index/section3/sap-papm.png" class="sap-papm" alt=""> <span class="tit-papm">BW</span>
-				<span class="sub-papm">Business Warehouse</span>
-			</div>
-
-			<div class="sec3_iconos_contenedor_6">
-				<img src="../img/index/section3/sap-papm.png" class="sap-papm" alt=""> <span class="tit-papm">BCP</span>
-				<span class="sub-papm">Business Planning and Consolidation</span>
-			</div>
-
-			<div class="sec3_iconos_contenedor_7">
-				<img src="../img/index/section3/sap-papm.png" class="sap-papm" alt=""> <span class="tit-papm">SAC</span>
-				<span class="sub-papm">SAP Analitics Cloud</span>
-			</div>
-
-
-
-
-			<h1 class="text-industrias">industrias</h1>
-
-			<div class="sec3_iconos_industria_1">
-				<img class="icon_industrias_1" alt="" src="../img/index/section3/Icon-Manufactura y consumo.png">
-				<span class="text_icon_industrias">Manufactura y consumo</span>
-			</div>
-
-			<div class="sec3_iconos_industria_2">
-				<img class="icon_industrias_2" alt="" src="../img/index/section3/Icon-Servicios financieros.png">
-				<span class="text_icon_industrias">Servicios Financieros</span>
-			</div>
-
-			<div class="sec3_iconos_industria_3">
-				<img class="icon_industrias_3" alt="" src="../img/index/section3/Icon-petroleoyextraccion.png">
-				<span class="text_icon_industrias">Servicios Financieros</span>
-			</div>
-
-			<div class="sec3_iconos_industria_4">
-				<img class="icon_industrias_3" alt="" src="../img/index/section3/Icon-Retail.png">
-				<span class="text_icon_industrias">Retail</span>
-			</div>
-
-			<div class="sec3_iconos_industria_5">
-				<img class="icon_industrias_2" alt="" src="../img/index/section3/Icon-Salud y hospitalidad.png">
-				<span class="text_icon_industrias">Salud y<br>hospitalidad</span>
-			</div>
-
-			<div class="sec3_iconos_industria_6">
-				<img class="icon_industrias_2" alt="" src="../img/index/section3/Icon-Logistica y transporte.png">
-				<span class="text_icon_industrias">Logistica y<br>transporte</span>
-			</div>
-
-
-			<div class="sec3_paises">
-				<h3 class="text-presencia">Presencia</h3>
-				<ul>
-					<li>EEUU</li>
-					<li>México</li>
-					<li>Centroamérica</li>
-					<li>Caribe</li>
-					<li>Norte y Oeste de Sudamérica</li>
-				</ul>
-			</div>
+			<img class="index_sec3_industrias" src="cabeceras/img_movil/Industrias_sec3.png">
 
 
 		</section>
