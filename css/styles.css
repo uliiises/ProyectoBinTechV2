@@ -243,8 +243,9 @@ h1,h2,h3,h4,h5{
     .dif_title_2 {
     color: white;
     position: absolute;
-    bottom: 82%;
+    bottom: 85%;
     left: 5%;
+    font-size: 24px;
     }
 
     .brujula_contenedor {
@@ -271,6 +272,23 @@ h1,h2,h3,h4,h5{
     display: block;
     margin: auto;
     left: 0;
+}
+
+}
+
+@media only screen 
+and (max-device-height : 667px){
+    .lista_dif li {
+    font-size: 11px !important;
+}
+
+.dif_200{
+    font-size: 28px;
+    top: 38%;
+}
+
+.icono_index_sec2 {
+    width: 22%;
 }
 
 }
