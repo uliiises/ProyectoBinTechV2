@@ -228,7 +228,7 @@ h1,h2,h3,h4,h5{
 }
 .dif_200 span{
     font-size: 10px;
-    width: 90%;
+    width: 140%;
 }
 
 }
@@ -283,14 +283,19 @@ and (max-device-height : 667px){
 }
 
 .dif_200{
-    font-size: 28px;
+    font-size: 22px;
     top: 38%;
 }
 
 .icono_index_sec2 {
-    width: 22%;
+    width: 20%;
 }
-
+.title_icono {
+    font-size: 14px;
+}
+.text_icono {
+        font-size: 11px;
+    }
 }
 
 /* ---------- SECCION 3 ---------- */
