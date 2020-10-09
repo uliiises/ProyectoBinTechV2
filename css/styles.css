@@ -241,6 +241,11 @@ h1,h2,h3,h4,h5{
 
 @media screen and (max-width: 500px){
 
+    .dif_title_2 {
+    bottom: 85%;
+    left: 5%;
+}
+
     .brujula_contenedor {
     position: relative;
     top: 15%;

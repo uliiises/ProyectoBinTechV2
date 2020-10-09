@@ -186,7 +186,7 @@
 			<img class="index_sec2_background" src="cabeceras/img_movil/fondo_index_sec2_5.png">
 
 			<h1 class="dif_title_2">
-				beneficios de nuestras<br>soluciones
+				beneficios de nuestras soluciones
 			</h1>
 
 
