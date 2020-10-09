@@ -207,20 +207,37 @@ h1,h2,h3,h4,h5{
 .lista_dif{
     width: 60%;
 }
+
 .lista_dif li {
-    font-size: 11px;
+    font-size: 12px !important;
 }
+    .lista_dif li:nth-child(1){
+        width: 122%;
+    }
+
+    .lista_dif li:nth-child(3){
+        width: 122%;
+    }
+
+    .lista_dif li:nth-child(5){
+        width: 90%;
+    }
 .dif_200{
-    font-size: 40px;
-    top: 38%;
+    font-size: 35px;
+    top: 35%;
 }
 .dif_200 span{
     font-size: 10px;
+    width: 90%;
 }
 
 }
-
-
+/* ---------- SECCION 2.5 MOVIL ---------- */
+.index_sec2_background {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
 
 /* ---------- SECCION 3 ---------- */
 .sec3_background {
@@ -491,6 +508,37 @@ h1,h2,h3,h4,h5{
     .sec3_paises ul{
         font-size: 12px;
     }
+}
+
+@media screen and ( max-width: 500px) {
+    .dif_title_2 {
+    color: white;
+    position: absolute;
+    bottom: 85%;
+    left: 5%;
+    }
+
+    .brujula_contenedor {
+    position: relative;
+    top: 15%;
+    text-align: center;
+    display: block;
+}
+
+.presentacion_contenedor {
+    position: relative;
+    top: 25%;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+.engranes_contenedor {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
 
 }
 
