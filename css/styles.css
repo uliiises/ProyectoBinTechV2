@@ -239,6 +239,36 @@ h1,h2,h3,h4,h5{
     height: 100%;
 }
 
+@media screen and (max-width: 500px){
+
+    .brujula_contenedor {
+    position: relative;
+    top: 15%;
+    text-align: center;
+    margin: auto;
+    display: block;
+    left: 0;
+}
+    .presentacion_contenedor {
+    position: relative;
+    top: 25%;
+    text-align: center;
+    margin: auto;
+    display: block;
+    left: 0;
+    }
+
+    .engranes_contenedor {
+    position: relative;
+    top: 40%;
+    text-align: center;
+    display: block;
+    margin: auto;
+    left: 0;
+}
+
+}
+
 /* ---------- SECCION 3 ---------- */
 .sec3_background {
     object-fit: cover;
