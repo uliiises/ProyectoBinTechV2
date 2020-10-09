@@ -709,7 +709,7 @@ p.texto_contenedor_blog {
     }
 }
 
-@media screen and ( min-width: 1366px) {
+@media screen and ( max-width: 1366px) {
     .lista_mejoramiento {
         font-size: 14px;
     }
