@@ -220,10 +220,10 @@ h1,h2,h3,h4,h5{
     }
 
     .lista_dif li:nth-child(5){
-        width: 90%;
+        width: 100%;
     }
 .dif_200{
-    font-size: 35px;
+    font-size: 30px;
     top: 35%;
 }
 .dif_200 span{
