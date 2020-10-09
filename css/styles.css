@@ -285,7 +285,7 @@ and (max-device-height : 667px){
 
 .dif_200{
     font-size: 16px;
-    top: 40%;
+    top: 42%;
 }
 .dif_200 span{
     font-size: 5px;
@@ -637,7 +637,6 @@ and (max-device-height : 667px){
     position: relative;
     width: 75%;
     height: 25%;
-    bottom: 0%;
     margin-left: 10%;
     margin-top: 50px;
 }
@@ -647,7 +646,6 @@ and (max-device-height : 667px) {
     position: relative;
     width: 60%;
     height: 22%;
-    bottom: 10%;
     margin-left: 18%;
 }
 
@@ -656,37 +654,37 @@ and (max-device-height : 667px) {
 }
 
 .index_sec3_PAPM {
-    width: 28vw;
+    width: 26vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_DWC {
-    width: 28vw;
+    width: 26vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_HANA {
-    width: 28vw;
+    width: 26vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_FPSL {
-    width: 28vw;
+    width: 26vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_BPC {
-    width: 46vw;
+    width: 44vw;
     margin-left:25px;
     margin-top: 10px;
 }
 .index_sec3_SAC {
-    width: 28vw;
+    width: 26vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_BW {
-    width: 28vw;
+    width: 26vw;
     margin-left: 50px;
     margin-top: 10px;
 }
