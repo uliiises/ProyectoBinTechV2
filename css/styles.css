@@ -592,45 +592,53 @@ and (max-device-height : 667px){
 
 .index_sec3_PAPM {
     position: relative;
-    width: 30vw;
-    margin-left: 35px;
+    width: 7em;
+    margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_DWC {
     position: relative;
-    width: 30vw;
+    width: 6.5em;
     margin-left: 35px;
     margin-top: 10px;
 }
 .index_sec3_HANA {
     position: relative;
-    width: 30vw;
-    margin-left: 35px;
+    width: 6.5em;
+    margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_FPSL {
     position: relative;
-    width: 30vw;
-    margin-left: 35px;
+    width: 6.5em;
+    margin-left: 60px;
     margin-top: 10px;
 }
 .index_sec3_BPC {
     position: relative;
-    width: 48vw;
-    margin-left: 9px;
+    width: 8.5em;
+    margin-left: 30px;
     margin-top: 10px;
 }
 .index_sec3_SAC {
     position: relative;
-    width: 30vw;
-    margin-left: 35px;
+    width: 6em;
+    margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_BW {
     position: relative;
-    width: 30vw;
-    margin-left: 35px;
+    width: 5.5em;
+    margin-left: 50px;
     margin-top: 10px;
+}
+
+.index_sec3_industrias {
+    position: absolute;
+    width: 75%;
+    height: 25%;
+    left: 10%;
+    top: 62%;
 }
 
 .index_sec3_industrias {
@@ -653,7 +661,7 @@ and (max-device-height : 667px) {
     margin-top: 22%;
 }
 
-.index_sec3_PAPM {
+/*.index_sec3_PAPM {
     width: 24vw;
     margin-left: 50px;
     margin-top: 10px;
@@ -687,7 +695,7 @@ and (max-device-height : 667px) {
     width: 20vw;
     margin-left: 50px;
     margin-top: 10px;
-}
+}*/
 }
 
 
