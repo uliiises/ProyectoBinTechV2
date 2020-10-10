@@ -654,7 +654,7 @@ and (max-device-height : 667px) {
 }
 
 .index_sec3_PAPM {
-    width: 26vw;
+    width: 24vw;
     margin-left: 50px;
     margin-top: 10px;
 }
@@ -670,21 +670,21 @@ and (max-device-height : 667px) {
 }
 .index_sec3_FPSL {
     width: 28vw;
-    margin-left: 56px;
+    margin-left: 65px;
     margin-top: 10px;
 }
 .index_sec3_BPC {
-    width: 38vw;
-    margin-left:25px;
+    width: 36vw;
+    margin-left:30px;
     margin-top: 10px;
 }
 .index_sec3_SAC {
-    width: 24vw;
+    width: 22vw;
     margin-left: 50px;
     margin-top: 10px;
 }
 .index_sec3_BW {
-    width: 22vw;
+    width: 20vw;
     margin-left: 50px;
     margin-top: 10px;
 }
