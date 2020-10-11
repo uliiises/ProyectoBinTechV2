@@ -591,46 +591,46 @@ and (max-device-height : 667px){
 }
 
 .index_sec3_PAPM {
-    position: relative;
+    position: absolute;
     width: 7em;
-    margin-left: 50px;
-    margin-top: 10px;
+    left: 15%;
+    top: 22%;
 }
 .index_sec3_DWC {
-    position: relative;
+    position: absolute;
     width: 6.5em;
-    margin-left: 35px;
-    margin-top: 10px;
+    left: 50%;
+    top: 22%;
 }
 .index_sec3_HANA {
-    position: relative;
+    position: absolute;
     width: 6.5em;
-    margin-left: 50px;
-    margin-top: 10px;
+    left: 50%;
+    top: 28%;
 }
 .index_sec3_FPSL {
-    position: relative;
+    position: absolute;
     width: 6.5em;
-    margin-left: 60px;
-    margin-top: 10px;
+    left: 50%;
+    top: 34%;
 }
 .index_sec3_BPC {
-    position: relative;
+    position: absolute;
     width: 8.5em;
-    margin-left: 30px;
-    margin-top: 10px;
+    left: 9%;
+    top: 40%;
 }
 .index_sec3_SAC {
-    position: relative;
+    position: absolute;
     width: 6em;
-    margin-left: 50px;
-    margin-top: 10px;
+    left: 15%;
+    top: 28%;
 }
 .index_sec3_BW {
-    position: relative;
+    position: absolute;
     width: 5.5em;
-    margin-left: 50px;
-    margin-top: 10px;
+    left: 15%;
+    top: 34%;
 }
 
 .index_sec3_industrias {

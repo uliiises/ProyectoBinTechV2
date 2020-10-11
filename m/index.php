@@ -269,9 +269,9 @@
 				</div>
 
 			</div>
-
-			<?php require_once "../cabeceras/footer.php"; ?>
 		</section>
+		<!-- ------------------------- SECCIÓN5 (footer) ------------------------- -->
+		<?php require_once "cabeceras/footer_movil.php"; ?>
 
 	</div>
 
