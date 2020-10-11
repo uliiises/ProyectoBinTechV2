@@ -288,7 +288,7 @@ and (max-device-height : 667px){
     top: 48%;
 }
 .dif_200 span{
-    font-size: 5px;
+    font-size: 7px;
 }
 
 .icono_index_sec2 {
@@ -589,8 +589,13 @@ and (max-device-height : 667px){
     margin-left:5%;
     font-family: 'corsaGroteskRegular';
 }
-
-.index_sec3_PAPM {
+.index_sec3_SAC {
+    position: absolute;
+    height: 11em;
+    left: 15%;
+    top: 22%;
+}
+/*.index_sec3_PAPM {
     position: absolute;
     width: 7em;
     left: 15%;
@@ -631,7 +636,7 @@ and (max-device-height : 667px){
     width: 5.5em;
     left: 15%;
     top: 34%;
-}
+}*/
 
 .index_sec3_industrias {
     position: absolute;

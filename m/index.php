@@ -222,14 +222,15 @@
 
 			<p class="index_sec3_texto_movil">Somos la firma con más implantaciones de modelos de rentabilidad y costos, mediante el uso de las herramientas tecnológicas de SAP</p>
 
-			<img class="index_sec3_PAPM" src="cabeceras/img_movil/PaPM.png">
+<!-- 			<img class="index_sec3_PAPM" src="cabeceras/img_movil/PaPM.png">
  			<img class="index_sec3_DWC" src="cabeceras/img_movil/DWC.png">
  			<img class="index_sec3_SAC" src="cabeceras/img_movil/SAC.png">
 			<img class="index_sec3_HANA" src="cabeceras/img_movil/HANA.png">
 			<img class="index_sec3_BW" src="cabeceras/img_movil/BW.png">
 			<img class="index_sec3_FPSL" src="cabeceras/img_movil/FPSL.png">
-			<img class="index_sec3_BPC" src="cabeceras/img_movil/BCP.png">
+			<img class="index_sec3_BPC" src="cabeceras/img_movil/BCP.png"> -->
 
+			<img class="index_sec3_SAC" src="cabeceras/img_movil/SAP.png">
 			<img class="index_sec3_industrias" src="cabeceras/img_movil/Industrias_sec3.png">
 
 
