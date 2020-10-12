@@ -55,7 +55,7 @@
 								</div>
 						</div>
 
-	<!-- 					<div class="right box">
+	 					<div class="right box">
 						<h3 class="subtitulo_footer_movil">Contacto</h3>
 						<form action="#">
 							<div class="email">
@@ -72,6 +72,6 @@
 							</div>
 						</form>
 						</div>
-					</div> -->
+					</div>
 	
 </section>

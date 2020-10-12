@@ -142,7 +142,7 @@ div.fondo_footer_movil {
 }
 
 .footer_movil_content .fas {
-    padding-bottom: 2px;
+    padding-bottom: 5px;
 }
 
 .titulo_footer_movil {
@@ -151,14 +151,15 @@ div.fondo_footer_movil {
     margin-top: 10px;
 }
 .subtitulo_footer_movil {
-    font-size: 0.7em;
+    font-size: 1em;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .footer_movil_text {
     font-family: 'corsaGroteskRegular';
-    font-size: 0.4em;
+    font-size: 0.7em;
+    text-decoration: none;
 }
 
 .up_box {
