@@ -9,8 +9,8 @@
 								<h3 class="subtitulo_footer_movil">México</h3>
 								<div class="place">
 									<span class="fas fa-map-marker-alt"></span>
-								<span class="footer_movil_text">Av. Barco Viejo 4750<br>Oficina 2506 Torre Exertia<br>Boca del Río, Ver. 94290</span>
-								</div><br>
+								<span class="footer_movil_text">Av. Barco Viejo 4750, Oficina 2506 Torre Exertia. Boca del Río, Ver. 94290</span>
+								</div>
 								<div class="phone">
 									<span class="fas fa-mobile"></span>
 								<span class="footer_movil_text"> Tel.: +52 (229) 167 6798</span>
@@ -20,6 +20,8 @@
 									<span class="fas fa-envelope"></span>
 								<span class="footer_movil_text">info@bintech.com.mx</span>
 								</div>
+								
+								<br>
 
 								<div class="place">
 									<span class="fas fa-map-marker-alt"></span>
@@ -33,6 +35,7 @@
 
 							</div>
 						</div>
+						<br>
 
 						<div class="middle_box">
 							<h3 class="subtitulo_footer_movil">Estados Unidos</h3>
