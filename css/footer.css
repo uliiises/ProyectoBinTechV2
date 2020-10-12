@@ -123,3 +123,47 @@ footer {
     }
 
 }
+
+/*--------------- FOOTER MOVIL ---------------*/
+
+div.fondo_footer_movil {
+    background: url(../m/cabeceras/img_movil/fondo_footer_movil.png);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -3;
+}
+
+.footer_movil_content {
+    display: block;
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.footer_movil_content .fas {
+    padding-bottom: 10px;
+}
+
+.titulo_footer_movil {
+    font-size: 2em;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.subtitulo_footer_movil {
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer_movil_text {
+    font-family: 'corsaGroteskRegular';
+    font-size: 0.7em;
+}
+
+.up_box {
+
+}
+.middle_box {
+
+}
