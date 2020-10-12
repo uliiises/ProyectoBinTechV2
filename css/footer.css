@@ -146,19 +146,19 @@ div.fondo_footer_movil {
 }
 
 .titulo_footer_movil {
-    font-size: 0.8em;
+    font-size: 1em;
     margin-bottom: 0px;
     margin-top: 10px;
 }
 .subtitulo_footer_movil {
-    font-size: 0.6em;
+    font-size: 0.7em;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .footer_movil_text {
     font-family: 'corsaGroteskRegular';
-    font-size: 0.3em;
+    font-size: 0.4em;
 }
 
 .up_box {
