@@ -45,9 +45,9 @@
 								<div class="phone">
 									<span class="fas fa-mobile"></span>
 								<span class="footer_movil_text"> Tel: +52 (229) 260 43 59</span>
-<!-- 								</div>
+ 								</div>
 
-								<div class="email"> -->
+								<div class="email">
 									<span class="fas fa-envelope"></span>
 								<span class="footer_movil_text">info@bintech.com.mx</span>
 								</div>
