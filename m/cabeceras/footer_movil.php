@@ -33,7 +33,7 @@
 
 							</div>
 						</div>
-						<br>
+						
 
 						<div class="middle_box">
 							<h3 class="subtitulo_footer_movil">Estados Unidos</h3>

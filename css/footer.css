@@ -162,20 +162,35 @@ div.fondo_footer_movil {
     text-decoration: none;
 }
 
+.up_box {
+    margin-bottom: 5%;
+}
 .place {
-    margin-top: 10px;
+    margin-top: 4%;
 }
 .middle_box {
     border-top: 2px solid;
 }
 
-@media screen and ( max-width: 500px) {
+textarea {
+    width: 250px;
+    height: 80px;
+    }
+
+@media only screen 
+and (max-device-height : 667px){
     textarea {
     width: 250px;
     height: 80px;
     }
-    
-    .footer_movil_text {
-    font-size: 0.6em;
+
+    .titulo_footer_movil {
+    font-size: 1em;
+}
+.subtitulo_footer_movil {
+    font-size: 0.7em;
+}
+.footer_movil_text {
+    font-size: 0.5em;
     }
 }
