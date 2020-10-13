@@ -183,16 +183,16 @@ textarea {
 and (max-device-height : 667px){
     textarea {
     width: 250px;
-    height: 30px;
+    height: 25px;
     }
 
     .titulo_footer_movil {
     font-size: 1em;
 }
 .subtitulo_footer_movil {
-    font-size: 0.7em;
+    font-size: 0.6em;
 }
 .footer_movil_text {
-    font-size: 0.4em;
+    font-size: 0.3em;
     }
 }
