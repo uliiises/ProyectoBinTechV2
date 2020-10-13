@@ -17,7 +17,7 @@
 <!-- 								</div>
 
 								<div class="email"> -->
-									<span class="fas fa-envelope"></span>
+									<span id= "correo_footer" class="fas fa-envelope"></span>
 								<span class="footer_movil_text">info@bintech.com.mx</span>
 								</div>
 
