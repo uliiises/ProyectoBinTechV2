@@ -162,8 +162,8 @@ div.fondo_footer_movil {
     text-decoration: none;
 }
 
-.up_box {
-
+.place {
+    margin-top: 10px;
 }
 .middle_box {
     border-top: 2px solid;
@@ -173,5 +173,9 @@ div.fondo_footer_movil {
     textarea {
     width: 250px;
     height: 80px;
+    }
+    
+    .footer_movil_text {
+    font-size: 0.6em;
     }
 }

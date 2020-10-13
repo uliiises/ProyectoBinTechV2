@@ -20,8 +20,6 @@
 									<span class="fas fa-envelope"></span>
 								<span class="footer_movil_text">info@bintech.com.mx</span>
 								</div>
-								
-								<br>
 
 								<div class="place">
 									<span class="fas fa-map-marker-alt"></span>
@@ -68,7 +66,7 @@
 
 							<div class="message">
 								<div class="footer_movil_text">Mensaje *</div>
-								<textarea rows="4" cols="40" required></textarea>
+								<textarea></textarea>
 							</div>
 						</form>
 						</div>
