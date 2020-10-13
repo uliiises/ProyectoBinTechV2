@@ -14,10 +14,10 @@
 								<div class="phone">
 									<span class="fas fa-mobile"></span>
 								<span class="footer_movil_text"> Tel.: +52 (229) 167 6798</span>
-<!-- 								</div>
+ 								</div>
 
-								<div class="email"> -->
-									<span id= "correo_footer" class="fas fa-envelope"></span>
+								<div class="email">
+									<span class="fas fa-envelope"></span>
 								<span class="footer_movil_text">info@bintech.com.mx</span>
 								</div>
 
