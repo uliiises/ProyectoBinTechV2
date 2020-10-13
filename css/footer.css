@@ -163,10 +163,10 @@ div.fondo_footer_movil {
 }
 
 .up_box {
-    margin-bottom: 5%;
+    margin-bottom: 15px;
 }
 .place {
-    margin-top: 4%;
+    margin-top: 10px;
 }
 .middle_box {
     border-top: 2px solid;
@@ -181,7 +181,7 @@ textarea {
 and (max-device-height : 667px){
     textarea {
     width: 250px;
-    height: 80px;
+    height: 50px;
     }
 
     .titulo_footer_movil {
