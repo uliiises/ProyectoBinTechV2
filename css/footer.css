@@ -151,14 +151,14 @@ div.fondo_footer_movil {
     margin-top: 10px;
 }
 .subtitulo_footer_movil {
-    font-size: 0.9em;
+    font-size: 1em;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .footer_movil_text {
     font-family: 'corsaGroteskRegular';
-    font-size: 0.7em;
+    font-size: 0.8em;
     text-decoration: none;
 }
 
