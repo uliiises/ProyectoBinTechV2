@@ -5,9 +5,7 @@
 	<meta charset="utf-8">
 	<meta name="author" content="Antonio Amador Barrientos / Uises Ponce Ávila">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta 
-    name='viewport' 
-    content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'/> 
+	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
 
 	<script src="https://kit.fontawesome.com/abdc980b7b.js" crossorigin="anonymous"></script>
 	<script src="../library/Jquery/jquery-3.5.1.min.js"></script>
@@ -21,6 +19,13 @@
 
 
 	<title>Bintech - Servicios</title>
+	<style>
+		html,
+		body {
+			max-width: 100%;
+			overflow-x: hidden;
+		}
+	</style>
 </head>
 
 <body>
