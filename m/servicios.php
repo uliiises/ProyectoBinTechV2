@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset="utf-8">
 	<meta name="author" content="Antonio Amador Barrientos / Uises Ponce Ávila">
@@ -18,27 +19,40 @@
 
 	<title>Bintech - Servicios</title>
 </head>
+
 <body>
-	<?php require_once "cabeceras/header_movil.php"; ?>
+	<?php require_once "cabeceras/header_movil2.php"; ?>
 
-	<img class="landing_page_background" src="../img/industrias/section1/industrias_sec1_background.png">
+	<img class="landing_page_background" src="../img/servicios/section1/servicios_sec1_background.png">
 
-			<img class="sec1_capa_4_movil" src="../img/landing_page/sec1_capa_4_movil.png">
+	<img class="sec1_capa_4_movil" src="../img/landing_page/sec1_capa_4_movil.png">
 
-			<h1 class="titulo_landing">Servicios</h1>
+	<h1 class="titulo_landing">servicios</h1>
 
-			<div class="texto_landing">
-				<p>Estamos interesados en conocer tu empresa para ofrecerte la mejor solución</p>
+	<div class="texto_landing">
+		<p>Nuestro compromiso es ayudar a nuestros clientes para que cuenten con modelos y procesos financieros de clase mundial, con la máxima eficiencia, de acuerdo a las características y necesidades propias de cada organización</p>
+	</div>
+
+	<div class="maintext_industria">
+		<div class="servicios_sec2_movil">
+			<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
+			<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
+			<div class="lista_dif">
+				<ul>
+					<li>Modelos de Rentabilidad</li>
+					<li>Administración Estratégica de Costos</li>
+					<li>Costo por servir</li>
+					<li>Estrategias de Precios y tarifas (Target Pricing)</li>
+					<li>Administración basada en valor (BVM)</li>
+					<li>Administración de la Capacidad</li>
+					<li>Costeo por Objetivo (Target Costing)</li>
+					<li>Administración del Desempeño (ABC/M,TDABC,etc.)</li>
+				</ul>
 			</div>
+		</div>
 
-			<?php require_once "../cabeceras/redes_sociales.php"; ?>
+	</div>
 
-			<div class="maintext_industria">
-				<div class="text_content">
-					<h1 class="industrias_sec2_titulo">Industrias<br>a las que<br>atendemos</h1>
-					<div class="industrias_sec2_texto">
-						<p>En Bintech hemos asesorado a instituciones de salud públicas y privadas en diversos países. Somos pioneros en la institunacionalización de modelos financieros de rentabilidad, gestion de costos y planeación de vinculados.</p>
-					</div>
+</body>
 
-	</body>
 </html>
