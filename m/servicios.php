@@ -69,6 +69,20 @@
 		<div class="texto-seccion2-movil">
 				<p>Defina su estrategia de precios con base a costos reales de procesos (sin prorrateos) e indicadores de rentabilidad.
 				</p>
+				<p>Administre y optimice el uso, la capacidad instalada, reduciendo costos y garantizando los mejores rendimientos para el negocio.
+				</p>
+				<p>
+				Identifique y elimine actividades que no agregan valor al negocio u establezca métricas de desempeño en base a productividad y rentabilidad.
+				</p>
+				<p>
+				Elabore fácilmente escenarios tipo “What If”, y observe como cambia la rentabilidad y el comportamiento del negocio al variar cualquier premisa.
+				</p>
+				<p>
+				Cambie la forma de compensar y remunerar basándose en indicadores o métricas de eficiencia y rentabilidad reales, precisas y oportunas.
+				</p>
+				<p>
+				Cuente con un modelo financiero integrado y automatizado (planeación, presupuestación, rentabilidad y consolidación financiera).
+				</p>
 			</div>
 		</section>
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
