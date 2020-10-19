@@ -43,8 +43,7 @@
 
 	<div class="maintext_industria">
 		<div class="servicios_sec2_movil">
-			<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
-			<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
+		<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
 			<div class="lista_dif">
 				<ul>
 					<li>Modelos de Rentabilidad</li>
@@ -57,6 +56,8 @@
 					<li>Administración del Desempeño (ABC/M,TDABC,etc.)</li>
 				</ul>
 			</div>
+			<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
+			
 		</div>
 
 	</div>
