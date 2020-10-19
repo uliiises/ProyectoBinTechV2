@@ -737,6 +737,8 @@ p.texto_contenedor_blog {
     font-size: 14px;
 }
 
+
+
 .servicios_sec2_iconos {
     position: absolute;
     top: 60%;
@@ -873,7 +875,7 @@ p.texto_contenedor_blog {
 @media screen and ( max-width: 1100px) {
     .servicios_sec2_title {
     font-size: 20px;
-    margin-top: 15%;
+    margin-top: 5%;
     }
     .lista_dif li {
     font-size: 10px;
@@ -1005,6 +1007,14 @@ p.texto_contenedor_blog {
 @media screen and ( max-width: 1024px) {
     .sec6_flex {
         margin-top: 40%;
+    }
+}
+
+
+/* -----------------MEDIA QUERY MOVIL------------------- */
+@media screen and (max-width:500px){
+    .lista_dif ul{
+      width: 130%;
     }
 }
 
@@ -1622,6 +1632,7 @@ div.industrias_sec2_texto {
     position: relative;
     margin: 7% 15%;
 }
+
 
 
 
