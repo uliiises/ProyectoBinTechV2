@@ -1641,7 +1641,8 @@ div.industrias_sec2_texto {
     font-size: 18px;
     width: 74%;
     margin-right: 7px;
-    margin-top: 14%;
+    position: relative;
+    top:6%;
 }
 
 
