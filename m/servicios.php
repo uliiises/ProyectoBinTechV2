@@ -66,7 +66,10 @@
 
 		<!-- ------------------------- SECCIÓN2.5 ------------------------- -->
 		<section>
-
+		<div class="texto-seccion2-movil">
+				<p>Defina su estrategia de precios con base a costos reales de procesos (sin prorrateos) e indicadores de rentabilidad.
+				</p>
+			</div>
 		</section>
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
 
