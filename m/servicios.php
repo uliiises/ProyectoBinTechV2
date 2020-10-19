@@ -40,28 +40,23 @@
 
 		<!-- ------------------------- SECCIÓN2 ------------------------- -->
 		<section>
-			<img class="sec2_capa_1" src="../img/index/section2/sec2_capa_1.png">
-			<img class="sec2_capa_2" src="../img/index/section2/sec2_capa_2.png">
-			<img class="sec2_capa_backgroud" src="../img/index/section2/sec2_backgroud.png">
-
-			<img class="sec2_capa_3" src="../img/index/section2/sec2_capa_3.png">
-
-			<h1 class="sec2_titulo">
-				Diferenciadores <br> y ventajas
-			</h1>
-
+		<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
 			<div class="lista_dif">
 				<ul>
-					<li>Soluciones estructuradas de acuerdo a las necesidades especificas de cada cliente.</li>
-					<br>
-					<li>Alto grado de especialización y enfoque 100% en soluciones de transformación financiera.</li>
-					<br>
-					<li>Alianzas estratégicas con empresas de tecnología líderes en la industria (SAP, Google, Oracle,
-						Microstrategy, Microsoft).</li>
+					<li>Modelos de Rentabilidad</li>
+					<li>Administración Estratégica de Costos</li>
+					<li>Costo por servir</li>
+					<li>Estrategias de Precios y tarifas (Target Pricing)</li>
+					<li>Administración basada en valor (BVM)</li>
+					<li>Administración de la Capacidad</li>
+					<li>Costeo por Objetivo (Target Costing)</li>
+					<li>Administración del Desempeño (ABC/M,TDABC,etc.)</li>
 				</ul>
+				<img src="cabeceras/img_movil/papm.png" class="sap_papm_movil" alt="">
 			</div>
-
-			<h4 class="dif_200">+200<br><span>proyectos exitosos en diversos países e industrias</span></h4>
+			<div class="section2_servicios_movil">
+				<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
+			</div>
 		</section>
 
 		<!-- ------------------------- SECCIÓN2.5 ------------------------- -->
