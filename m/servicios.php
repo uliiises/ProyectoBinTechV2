@@ -20,10 +20,11 @@
 
 	<title>Bintech - Servicios</title>
 	<style>
-		html,
-		body {
-			max-width: 100%;
+		html {
 			overflow-x: hidden;
+			height: 100%;
+			width: 100%;
+			transform: translate3d(0, 0, 0);
 		}
 	</style>
 </head>
@@ -43,7 +44,7 @@
 	<?php require_once "../cabeceras/redes_sociales.php"; ?>
 	<div class="maintext_industria">
 		<div class="servicios_sec2_movil">
-		<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
+			<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
 			<div class="lista_dif">
 				<ul>
 					<li>Modelos de Rentabilidad</li>
@@ -57,7 +58,7 @@
 				</ul>
 			</div>
 			<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
-			
+
 		</div>
 
 	</div>
