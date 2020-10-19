@@ -60,51 +60,9 @@
 		</section>
 
 		<!-- ------------------------- SECCIÓN2.5 ------------------------- -->
-		<section>
-			<img class="index_sec2_background" src="cabeceras/img_movil/fondo_index_sec2_5.png">
-
-			<h1 class="dif_title_2">
-				beneficios de nuestras soluciones
-			</h1>
-
-
-			<div class="brujula_contenedor">
-				<img class="icono_index_sec2" alt="" src="../img/index/section2/Icon-Brujula.png">
-				<h3 class="title_icono">Dirección financiera</h3>
-				<p class="text_icono">Transformación de la dirección financiera con un enfoque estratégico e innovador</p>
-			</div>
-
-			<div class="presentacion_contenedor">
-				<img class="icono_index_sec2" alt="" src="../img/index/section2/Icon-Presentacion.png">
-				<h3 class="title_icono">Incrementar el valor para los accionistas</h3>
-				<p class="text_icono">Hacer un mejor uso de la capacidad y los recursos, con el fin de incrementar el
-					valor y satisfacer a los empleados, clientes y accionistas</p>
-			</div>
-
-			<div class="engranes_contenedor">
-				<img class="icono_index_sec2" alt="" src="../img/index/section2/Icon-engranes.png">
-				<h3 class="title_icono">Optimización de procesos financieros</h3>
-				<p class="text_icono">Hacer un mejor uso de la capacidad y los recursos, con el fin de incrementar el
-					valor y satisfacer a los empleados, clientes y accionistas</p>
-			</div>
-		</section>
-
+		
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
-		<section>
-			<!-- <img class="sec3_background" alt="" src="../img/index/section3/sec3_background.png"> -->
-			<img class="index_sec3_background" src="cabeceras/img_movil/fondo_index_sec2_5.png">
-
-			<h1 class="dif_title_2">
-				Experiencia<br>Certificada
-			</h1>
-
-			<p class="index_sec3_texto_movil">Somos la firma con más implantaciones de modelos de rentabilidad y costos, mediante el uso de las herramientas tecnológicas de SAP</p>
-
-			<img class="index_sec3_SAC" src="cabeceras/img_movil/SAP.png">
-			<img class="index_sec3_industrias" src="cabeceras/img_movil/Industrias_sec3.png">
-
-
-		</section>
+		
 		<!-- ------------------------- SECCIÓN4 ------------------------- -->
 		<section>
 			<h1 class="sec4_titulo_blog">blog</h1>
