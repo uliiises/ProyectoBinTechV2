@@ -1620,10 +1620,11 @@ div.industrias_sec2_texto {
 
 @media screen and (max-width:500px){
     .section2_servicios_movil img{
-       width: 100%;
-       height: 200%;
-       position: absolute;
-       z-index: -1;
+        width: 100%;
+        height: 194%;
+        position: absolute;
+        z-index: -1;
+        top: 5%;
     }
 }
 
