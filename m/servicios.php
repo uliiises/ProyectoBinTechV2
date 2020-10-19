@@ -40,7 +40,7 @@
 
 		<!-- ------------------------- SECCIÓN2 ------------------------- -->
 		<section>
-		<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
+			<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
 			<div class="lista_dif">
 				<ul>
 					<li>Modelos de Rentabilidad</li>
@@ -58,17 +58,10 @@
 				<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
 			</div>
 			<h1 class="mejoramiento-title-movil">Mejoramiento de Rentabilidad y Administración de Costos</h1>
-				<!-- <div class="lista_mejoramiento-movil">
-					<ul class="mejoramiento_list-movil">
-						<li>Conozca la rentabilidad en tiempo real a nivel producto, cliente, canal, proyecto ó cualquier otra dimensión requerida</li>
-						<li>Defina su estrategia de precios con base a costos reales de procesos (sin prorrateos) e indicadores de rentabilidad</li>
-						<li>Administre y optimice el uso, la capacidad instalada, reduciendo costos y garantizando los mejores rendimientos para el negocio</li>
-						<li>Identifique y elimine actividades que no agregan valor al negocio o establezca métricas de desempeño con base en la productividad y rentabilidad</li>
-						<li>Elabore fácilmente escenarios tipo "What if", y observe como cambia la rentabilidad y el comportamiento del negocio al variar cualquier premisa </li>
-						<li>Combine la forma de compensar y renumerar basándose en indicadores o métricas de eficiencia y rentabilidad reales, precisas y oportunas</li>
-						<li>Cuente con un modelo financiero integrado y automatizado (planeación, presupuestación, rentabilidad y consolidación financiera)</li>
-					</ul>
-				</div> -->
+			<div class="texto-seccion2-movil">
+				<p>Conozca la rentabilidad en tiempo real a nivel producto, cliente, canal, proyecto ó cualquier otra dimensión requerida.
+				</p>
+			</div>
 		</section>
 
 		<!-- ------------------------- SECCIÓN2.5 ------------------------- -->
@@ -76,9 +69,9 @@
 
 		</section>
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
-		
+
 		<!-- ------------------------- SECCIÓN4 ------------------------- -->
-		
+
 		<!-- ------------------------- SECCIÓN5 (footer) ------------------------- -->
 		<?php require_once "cabeceras/footer_movil.php"; ?>
 
