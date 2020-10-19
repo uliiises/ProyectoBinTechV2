@@ -1609,13 +1609,22 @@ div.industrias_sec2_texto {
 
 
 @media screen and (max-width:500px){
-    .servicios_sec2_movil img{
+    .section2_servicios_movil img{
        width: 100%;
        height: 200%;
        position: absolute;
        z-index: -1;
     }
 }
+
+.sap_papm_movil{
+    width: 50%;
+    position: relative;
+    margin: 7% 15%;
+}
+
+
+
 
 
 
