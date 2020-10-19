@@ -57,48 +57,28 @@
 			<div class="section2_servicios_movil">
 				<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
 			</div>
+			<h1 class="mejoramiento-title-movil">Mejoramiento de Rentabilidad y Administración de Costos</h1>
+				<!-- <div class="lista_mejoramiento-movil">
+					<ul class="mejoramiento_list-movil">
+						<li>Conozca la rentabilidad en tiempo real a nivel producto, cliente, canal, proyecto ó cualquier otra dimensión requerida</li>
+						<li>Defina su estrategia de precios con base a costos reales de procesos (sin prorrateos) e indicadores de rentabilidad</li>
+						<li>Administre y optimice el uso, la capacidad instalada, reduciendo costos y garantizando los mejores rendimientos para el negocio</li>
+						<li>Identifique y elimine actividades que no agregan valor al negocio o establezca métricas de desempeño con base en la productividad y rentabilidad</li>
+						<li>Elabore fácilmente escenarios tipo "What if", y observe como cambia la rentabilidad y el comportamiento del negocio al variar cualquier premisa </li>
+						<li>Combine la forma de compensar y renumerar basándose en indicadores o métricas de eficiencia y rentabilidad reales, precisas y oportunas</li>
+						<li>Cuente con un modelo financiero integrado y automatizado (planeación, presupuestación, rentabilidad y consolidación financiera)</li>
+					</ul>
+				</div> -->
 		</section>
 
 		<!-- ------------------------- SECCIÓN2.5 ------------------------- -->
-		
+		<section>
+
+		</section>
 		<!-- ------------------------- SECCIÓN3 ------------------------- -->
 		
 		<!-- ------------------------- SECCIÓN4 ------------------------- -->
-		<section>
-			<h1 class="sec4_titulo_blog">blog</h1>
-
-			<div class="contenedor_blog_principal">
-
-				<div class="contenedor_blog">
-					<img class="blog_img_1" src="../img/index/section4/blog_img_1.png">
-					<h3 class="titulo_contenedor_blog">¿Conoces sobre tu merma?</h3>
-					<p class="texto_contenedor_blog">Nuestro compromiso es ayudar a nuestros clientes para que cuenten con modelos y procesos financieros de clase mundial ...</p>
-					<button role="button" class="boton_blog_leer">Leer</button>
-				</div>
-
-				<div class="contenedor_blog">
-					<img class="blog_img_2" src="../img/index/section4/blog_img_2.png">
-					<h3 class="titulo_contenedor_blog">4 maneras de potenciar tu negocio</h3>
-					<p class="texto_contenedor_blog">Nuestro compromiso es ayudar a nuestros clientes para que cuenten con modelos y procesos financieros de clase mundial ...</p>
-					<button role="button" class="boton_blog_leer">Leer</button>
-				</div>
-
-				<div class="contenedor_blog">
-					<img class="blog_img_3" src="../img/index/section4/blog_img_3.png">
-					<h3 class="titulo_contenedor_blog">¿Por qué es necesaria una organización?</h3>
-					<p class="texto_contenedor_blog">Nuestro compromiso es ayudar a nuestros clientes para que cuenten con modelos y procesos financieros de clase mundial ...</p>
-					<button role="button" class="boton_blog_leer">Leer</button>
-				</div>
-
-				<div class="contenedor_blog">
-					<img class="blog_img_4" src="../img/index/section4/blog_img_4.png">
-					<h3 class="titulo_contenedor_blog">¿Qué tanto conoces tu negocio?</h3>
-					<p class="texto_contenedor_blog">Nuestro compromiso es ayudar a nuestros clientes para que cuenten con modelos y procesos financieros de clase mundial ...</p>
-					<button role="button" class="boton_blog_leer">Leer</button>
-				</div>
-
-			</div>
-		</section>
+		
 		<!-- ------------------------- SECCIÓN5 (footer) ------------------------- -->
 		<?php require_once "cabeceras/footer_movil.php"; ?>
 
