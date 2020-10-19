@@ -1634,6 +1634,16 @@ div.industrias_sec2_texto {
     margin: 7% 15%;
 }
 
+.mejoramiento-title-movil{
+    color: white;
+    float: right;
+    text-align: right;
+    font-size: 18px;
+    width: 74%;
+    margin-right: 7px;
+    margin-top: 64px;
+}
+
 
 
 
