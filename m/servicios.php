@@ -40,7 +40,7 @@
 	<div class="texto_landing">
 		<p>Nuestro compromiso es ayudar a nuestros clientes para que cuenten con modelos y procesos financieros de clase mundial, con la máxima eficiencia, de acuerdo a las características y necesidades propias de cada organización</p>
 	</div>
-
+	<?php require_once "../cabeceras/redes_sociales.php"; ?>
 	<div class="maintext_industria">
 		<div class="servicios_sec2_movil">
 		<h1 class="servicios_sec2_title">Mejoramiento de Rentabilidad <br>(Profitability Management)</h1>
