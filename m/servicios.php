@@ -155,7 +155,7 @@
 				<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
 			</div>
 			<h1 class="mejoramiento-title-movil transformacion_title_movil" id="subtitle_seccion4_movil">Almacén de datos en la nube</h1>
-			<div class="texto-seccion2-movil">
+			<div class="texto-seccion3-movil">
 				<p style="margin-top: -4%;">SAP Data Warehouse Cloud es el primer almacén de datos en la nube listo para la empresa que une todas sus fuentes de datos en una única solución.
 				</p>
 				
@@ -164,7 +164,7 @@
 
 		<!-- ------------------------- SECCIÓN3.5 ------------------------- -->
 		<section>
-			<div class="texto-seccion2-movil">
+			<div class="texto-seccion3-movil">
 			<p>
 			Consolide vistas de datos en todas las fuentes de datos relevantes. 
 
@@ -188,7 +188,7 @@
 			</div>
 
 			<div class="background-sec-2-movil">
-				<img src="../img/servicios/section3/servicios_sec3_fondo.png" alt="">
+				<img src="../img/servicios/section4/servicios_sec4_fondo.png" alt="">
 			</div>
 
 		</section>
