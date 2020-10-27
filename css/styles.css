@@ -1670,6 +1670,22 @@ div.industrias_sec2_texto {
 
 }
 
+.lista_trans li{
+    font-size: 1.2em !important;
+}
+
+.sap_bpc_movil{
+    width: 90%;
+    position: relative;
+    margin: 7% 4%;
+}
+
+.transformacion_title_movil{
+    width: 55%;
+    margin-top: 33%;
+    top: 0%;
+}
+
 
 
 
