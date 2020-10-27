@@ -225,7 +225,7 @@
 				</p>
 				<p>Nuestro método de trabajo implica:</p>
 			</div>
-			<div class="lista_dif lista_seccion5_movil">
+			<div class="lista_dif lista_seccion6_movil">
 				<ul>
 					<li>Evaluar y definir una estrategia de integración de aplicaciones tecnológicas.
 					</li>
