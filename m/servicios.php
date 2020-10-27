@@ -107,8 +107,8 @@
 				<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
 			</div>
 			<h1 class="mejoramiento-title-movil transformacion_title_movil">Planeación y Consolidación Financiera</h1>
-			<div class="texto-seccion2-movil">
-				<p>Modernice, integre y automatice el proceso presupuesta y de planeación financiera de su negocio de forma práctica.
+			<div class="texto-seccion3-movil">
+				<p style="margin-top: -4%;">Modernice, integre y automatice el proceso presupuesta y de planeación financiera de su negocio de forma práctica.
 				</p>
 				
 			</div>
