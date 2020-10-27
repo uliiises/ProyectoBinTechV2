@@ -217,7 +217,7 @@
 		<!-- ------------------------- SECCIÓN6 ------------------------- -->
 		<section>
 			<div class="background_blanco_seccion5_movil">
-				<img src="cabeceras/img_movil/servicios_sec5_background_movil.png" alt="">
+				<img src="cabeceras/img_movil/servicios_sec5_background_movil.png" id="background_blanco_seccion6" alt="">
 			</div>
 			<h1 class="servicios_sec2_title" id="title_seccion5">Implantación de <br>Soluciones Tecnológicas</h1>
 			<div class="texto_seccion6_movil">
