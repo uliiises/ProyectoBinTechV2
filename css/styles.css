@@ -1730,9 +1730,6 @@ div.industrias_sec2_texto {
 }
 
 
-
-
-
 .background_blanco_seccion5_movil img{
     position: absolute;
     width: 106%;
@@ -1758,6 +1755,12 @@ div.industrias_sec2_texto {
 
 #background_blanco_seccion6{
     height: 94%;
+}
+
+.lista_seccion6_movil li{
+    width: 100% !important;
+    margin-bottom: 4%;
+
 }
 
 
