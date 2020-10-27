@@ -1722,7 +1722,7 @@ div.industrias_sec2_texto {
 
 }
 
-.lista_seccion5_movil{
+.lista_seccion5_movil, .lista_seccion6_movil{
     list-style: square inside url(../m/cabeceras/img_movil/square_blue.png);
     list-style-position: initial;
     margin-left: 7px;
