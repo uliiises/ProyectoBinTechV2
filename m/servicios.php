@@ -138,10 +138,61 @@
 			</div>
 
 		</section>
-
-
-
 		<!-- ------------------------- SECCIÓN4 ------------------------- -->
+
+		<section>
+			<h1 class="servicios_sec2_title">Inteligencia de Negocios <br> y Data Warehousing</h1>
+			<div class="lista_dif lista_trans">
+				<ul>
+					<li>Reporting</li>
+					<li>Predictive Analysis</li>
+					<li>Digital Boardroom</li>
+					<li>Data Warehousing</li>
+				</ul>
+				<img src="cabeceras/img_movil/logos-seccion4.png" class="sap_papm_movil" id="logos_seccion4_movil" alt="">
+			</div>
+			<div class="section2_servicios_movil">
+				<img src="cabeceras/img_movil/servicios_sec2_background_movil.png" alt="">
+			</div>
+			<h1 class="mejoramiento-title-movil transformacion_title_movil">Almacén de datos en la nube</h1>
+			<div class="texto-seccion2-movil">
+				<p style="margin-top: -4%;">SAP Data Warehouse Cloud es el primer almacén de datos en la nube listo para la empresa que une todas sus fuentes de datos en una única solución.
+				</p>
+				
+			</div>
+		</section>
+
+		<!-- ------------------------- SECCIÓN3.5 ------------------------- -->
+		<section>
+			<div class="texto-seccion2-movil">
+			<p>
+			Consolide vistas de datos en todas las fuentes de datos relevantes. 
+
+				</p>
+				<p>Automatice el acceso de data sets en la nube u on-premise con aplicaciones y tecnologías preintegradas de SAP.
+
+				</p>
+				<p>Dé soporte a diferentes tipos de datos con motores hechos para analizar data sets complejos y no convencionales.
+
+				</p>
+				<p>
+				Acceso instantáneo a los datos de la aplicación a través de adaptadores preconstruidos para integrar datos de varias fuentes.
+				</p>
+				<p>
+				Capa de negocios semántica para traducir el lenguaje de datos a frases  de lenguaje natural. 
+				</p>
+				<p>
+				Escalable, elástico, abierto y flexible, por lo cual es adecuado para cualquier empresa de cualquier tamaño.
+				</p>
+
+			</div>
+
+			<div class="background-sec-2-movil">
+				<img src="../img/servicios/section3/servicios_sec3_fondo.png" alt="">
+			</div>
+
+		</section>
+
 
 		<!-- ------------------------- SECCIÓN5 (footer) ------------------------- -->
 		<?php require_once "cabeceras/footer_movil.php"; ?>
