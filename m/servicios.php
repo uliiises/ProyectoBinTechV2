@@ -141,7 +141,7 @@
 		<!-- ------------------------- SECCIÓN4 ------------------------- -->
 
 		<section>
-			<h1 class="servicios_sec2_title">Inteligencia de Negocios <br> y Data Warehousing</h1>
+			<h1 class="servicios_sec2_title" id="title_seccion4_movil">Inteligencia de Negocios <br> y Data Warehousing</h1>
 			<div class="lista_dif lista_trans">
 				<ul>
 					<li>Reporting</li>
