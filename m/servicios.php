@@ -197,7 +197,7 @@
 			<div class="background_blanco_seccion5_movil">
 				<img src="cabeceras/img_movil/servicios_sec5_background_movil.png" alt="">
 			</div>
-			<h1 class="servicios_sec2_title">Consultoría <br>de negocios</h1>
+			<h1 class="servicios_sec2_title" id="title_seccion5">Consultoría <br>de negocios</h1>
 			<div class="lista_dif lista_seccion5_movil">
 				<ul>
 					<li>Contamos con un equipo de profesionales con conocimientos altamente especializados, adquiridos durante más de 20 años de experiencia, en temas de administración financiera.
