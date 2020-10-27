@@ -1719,8 +1719,19 @@ div.industrias_sec2_texto {
 .lista_seccion5_movil li{
     width: 100% !important;
     margin-bottom: 8%;
-    
+
 }
+
+.lista_seccion5_movil{
+    list-style: square inside url(../m/cabeceras/img_movil/square_blue.png);
+    list-style-position: initial;
+    margin-left: 7px;
+
+}
+
+
+
+
 
 .background_blanco_seccion5_movil img{
     position: absolute;
