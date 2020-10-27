@@ -214,6 +214,35 @@
 		</section>
 
 
+		<!-- ------------------------- SECCIÓN6 ------------------------- -->
+		<section>
+			<div class="background_blanco_seccion5_movil">
+				<img src="cabeceras/img_movil/servicios_sec5_background_movil.png" alt="">
+			</div>
+			<h1 class="servicios_sec2_title" id="title_seccion5">Implantación de <br>Soluciones Tecnológicas</h1>
+			<div class="texto_seccion6_movil">
+				<p>Nuestras soluciones son soportadas con aplicaciones tecnológicas que sean las apropiadas para la organización, en base en sus características, requerimientos y expectativas de evolución, asegurando que garanticen la creación de valor y retorno de inversión en el menor plazo.
+				</p>
+				<p>Nuestro método de trabajo implica:</p>
+			</div>
+			<div class="lista_dif lista_seccion5_movil">
+				<ul>
+					<li>Evaluar y definir una estrategia de integración de aplicaciones tecnológicas.
+					</li>
+					<li>Configurar, probar y dejar puesta a punto la integración de aplicaciones tecnológicas.</li>
+					<li>Impartir cursos y talleres para el desarrollo de habilidades.</li>
+					<li>Establecer el plan de inversión y ruta crítica de implantación.
+					</li>
+					<li>Elaborar informes, tableros y aplicaciones en medios fijos y móviles.</li>
+					<li>Dar soporte post-implantación y para desarrollra estrategias evolutivas.</li>
+				</ul>
+			</div>
+			<div class="background-sec-5-movil">
+				<img src="../img/servicios/section6/servicios_sec6_fondo.png" alt="">
+			</div>
+		</section>
+
+
 		<!-- ------------------------- SECCIÓN5 (footer) ------------------------- -->
 		<?php require_once "cabeceras/footer_movil.php"; ?>
 
