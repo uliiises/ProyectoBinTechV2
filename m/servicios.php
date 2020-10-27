@@ -116,7 +116,7 @@
 
 		<!-- ------------------------- SECCIÓN3.5 ------------------------- -->
 		<section>
-			<div class="texto-seccion2-movil">
+			<div class="texto-seccion3-movil">
 			<p>
 				Homologue y consolide la información financiera de todas las empresas, entidades o países en una sola plataforma tecnológica altamente eficiente.
 
