@@ -1712,6 +1712,30 @@ div.industrias_sec2_texto {
 
 
 
+.lista_seccion5_movil li{
+    width: 100% !important;
+    margin-bottom: 8%;
+    
+}
+
+.background_blanco_seccion5_movil img{
+    position: absolute;
+    width: 106%;
+    height: 89%;
+    z-index: -1;
+}
+
+.background-sec-5-movil img{
+    position: absolute;
+    z-index: -2;
+    bottom: 0%;
+    width: 102%;
+    height: 40%;
+    
+}
+
+
+
 
 
 
