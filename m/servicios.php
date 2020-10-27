@@ -243,6 +243,26 @@
 		</section>
 
 
+		<!-- ------------------------- SECCIÓN7 ------------------------- -->
+		<section>
+			<div class="background_blanco_seccion5_movil">
+				<img src="cabeceras/img_movil/servicios_sec5_background_movil.png" id="background_blanco_seccion6" alt="">
+			</div>
+			<h1 class="servicios_sec2_title" id="title_seccion5">Capacitación</h1>
+			<div class="texto_seccion6_movil">
+				<p>El desarrollo de habilidades y conocimiento de su equipo de trabajo no es sólo una tarea imprescindible, sino también la más importante para lograr los resultados esperados.
+				</p>
+				<p>En Bintech hemos desarrollado una serie de programas de capacitación (cursos y talleres) sobre cada una de las prácticas de nuestro negocio, que le permitirán a su equipo de trabajo sacar el mayor provecho de las iniciativas, así como de las aplicaciones tecnológicas y los procesos de implantación de las mismas.</p>
+				<p>
+				De igual forma diseñamos programas especiales de acuerdo a los requerimientos de cada organización, que se adpaten perfectamente a las necesidades y cultura organizacional.
+				</p>
+			</div>
+			<div class="background-sec-5-movil">
+				<img src="../img/servicios/section7/fondo.png" alt="">
+			</div>
+		</section>
+
+
 		<!-- ------------------------- SECCIÓN5 (footer) ------------------------- -->
 		<?php require_once "cabeceras/footer_movil.php"; ?>
 
