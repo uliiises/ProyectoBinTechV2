@@ -1683,7 +1683,18 @@ div.industrias_sec2_texto {
 .transformacion_title_movil{
     width: 55%;
     margin-top: 33%;
-    top: 0%;
+    top: -5%;
+}
+
+.texto-seccion3-movil{
+    color: white;
+    font-family: 'corsaGroteskRegular';
+    font-size: 15px;
+    width: 95%;
+    text-align: right;
+    float: right;
+    margin-right: 7px;
+    font-size: 0.9em;
 }
 
 
